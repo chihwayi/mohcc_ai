@@ -1,0 +1,2170 @@
+[
+  {
+    "prompt": "What are the 6 core principles of HIV testing services?",
+    "completion": "Consent, confidentiality, counselling, correct and accurate results, comfort and connection to HIV prevention, treatment, care, and support."
+  },
+  {
+    "prompt": "When is re-testing for HIV recommended?",
+    "completion": "Before initiating ART for all people newly and previously diagnosed with HIV."
+  },
+  {
+    "prompt": "What is the preferred first-line ART regimen in Zimbabwe?",
+    "completion": "Dolutegravir-based regimens."
+  },
+  {
+    "prompt": "How often should routine viral load monitoring be done for stable patients on ART?",
+    "completion": "At 6 months and at 12 months after ART initiation, and then annually thereafter."
+  },
+  {
+    "prompt": "What is the definition of a stable patient on ART?",
+    "completion": "Someone with no current OIs, a VL<50 copies/ml, and at least 6 months on ART. Or, if viral load is not available, someone with no current OIs, a CD4 > 200 copies/ml, and at least 6 months on ART."
+  },
+  {
+    "prompt": "What is the commitment of the MoHCC regarding PMTCT?",
+    "completion": "Elimination of maternal to child transmission of both HIV and syphilis."
+  },
+  {
+    "prompt": "What is the recommended ART regimen for all pregnant and breastfeeding women?",
+    "completion": "Lifelong effective ART."
+  },
+  {
+    "prompt": "What are the high-risk categories for HIV-exposed infants?",
+    "completion": "1. An infant whose mother has a high maternal viral load >1000copies/ml during the last 4 weeks before delivery. 2. An infant born to an HIV-infected woman who has received less than 4 weeks of ART at the time of delivery. 3. An infant born to a newly diagnosed HIV-infected woman during labor, delivery, and postpartum."
+  },
+  {
+    "prompt": "What type of testing is recommended for HIV diagnosis in children less than 18 months?",
+    "completion": "Virologic testing (PCR testing)."
+  },
+  {
+    "prompt": "What are some key issues addressed in HIV care guidelines regarding opportunistic infections and comorbidities?",
+    "completion": "Use of cotrimoxazole prophylaxis, prevention and management of tuberculosis, screening and management of cryptococcal disease, screening for noncommunicable diseases, and nutritional care and support."
+  },
+  {
+    "prompt": "What is the recommended PrEP for people at substantial risk of HIV infection?",
+    "completion": "Oral PrEP (TDF and FTC)."
+  },
+  {
+    "prompt": "What are the 6 core principles of HIV testing services?",
+    "completion": "Consent, confidentiality, counselling, correct and accurate results, comfort and connection to HIV prevention, treatment, care, and support."
+  },
+  {
+    "prompt": "What is the goal of the MOHCC regarding HIV testing?",
+    "completion": "To reduce HIV-related morbidity and mortality through early diagnosis and linkage to treatment for those who test HIV positive and to HIV prevention and SRH services for those who test HIV negative."
+  },
+  {
+    "prompt": "What are the global fast track targets for HIV testing?",
+    "completion": "95% of people living with HIV should know their HIV status by 2025, 95% of those who know their status should be initiated on ART, and 95% of those on ART should achieve viral suppression by 2025."
+  },
+  {
+    "prompt": "How is consent obtained for HIV testing in children and adolescents below the age of 16 years?",
+    "completion": "From parents or caregivers, except for mature and emancipated minors."
+  },
+  {
+    "prompt": "What is the purpose of recency testing (RTRI)?",
+    "completion": "To differentiate between recent (i.e., in the past 12 months) and long-term HIV infections and provide epidemiological data to inform HIV prevention and control strategies."
+  },
+  {
+    "prompt": "What are the three key messages that must be given in post-test counselling for those testing HIV positive?",
+    "completion": "1. Treatment is available for all people living with HIV. 2. Starting treatment as soon as possible will prevent your health from worsening and prevent transmission to others. 3. Taking ART properly will allow you to live a long and fulfilling life."
+  },
+  {
+    "prompt": "What are the different service delivery approaches for HTS?",
+    "completion": "Facility-based HTS (including PITC) and community-based HTS."
+  },
+  {
+    "prompt": "What is HIV self-testing (HIVST)?",
+    "completion": "A process in which a person collects their own specimen and performs a test and interprets the result."
+  },
+  {
+    "prompt": "What does the HTS package include?",
+    "completion": "Pre-test information, conducting the HIV test, post-test counselling, and follow-up counselling and referrals."
+  },
+  {
+    "prompt": "What is PITC?",
+    "completion": "Provider Initiated Testing and Counselling, where HIV testing is offered routinely to all clients in clinical settings, regardless of their reason for visiting."
+  },
+  {
+    "prompt": "In what settings should PITC be offered?",
+    "completion": "Malnutrition and pediatric clinics, STI, viral hepatitis and TB services, inpatient and outpatient settings, antenatal clinics (ANC), and health services for vulnerable groups."
+  },
+  {
+    "prompt": "What are some examples of community-based HTS approaches?",
+    "completion": "Door-to-door testing, home-based testing (including index case testing), and mobile outreach campaigns in identified hot spot areas."
+  },
+  {
+    "prompt": "What is secondary distribution of HIVST kits?",
+    "completion": "Encouraging the distribution of HIVST kits for partner testing, especially in ANC and PNC, and index case testing."
+  },
+  {
+    "prompt": "Why should HIVST positive results be confirmed by a trained service provider?",
+    "completion": "To ensure accuracy and link individuals to appropriate care and treatment."
+  },
+  {
+    "prompt": "What is the recommended number of reactive tests to provide an HIV-positive diagnosis in Zimbabwe?",
+    "completion": "Three consecutive reactive tests."
+  },
+  {
+    "prompt": "What tests are typically used in the HIV testing algorithm for the general population?",
+    "completion": "Determine, ChemBio, and INSTI."
+  },
+  {
+    "prompt": "What is the first-line test offered to pregnant women in antenatal care?",
+    "completion": "Dual HIV and syphilis rapid diagnostic tests."
+  },
+  {
+    "prompt": "When is retesting for HIV not recommended?",
+    "completion": "For individuals on ART due to the potential for inaccurate results."
+  },
+  {
+    "prompt": "What is linkage in the context of HIV?",
+    "completion": "The process of actions and activities that support people testing for HIV and people diagnosed with HIV to engage with prevention, treatment, and care services."
+  },
+  {
+    "prompt": "Why is it important to link individuals who test negative for HIV to prevention and SRH services?",
+    "completion": "To help them remain HIV-negative and maintain their sexual and reproductive health."
+  },
+  {
+    "prompt": "What factors might influence the 'comfort' aspect of HIV testing for a pregnant woman in labor?",
+    "completion": "The stage of labor, the woman's comfort level, and the need for analgesics."
+  },
+  {
+    "prompt": "Why is recency testing important in the context of HIV prevention and control?",
+    "completion": "It helps identify areas with ongoing transmission and inform targeted interventions."
+  },
+  {
+    "prompt": "How does the 'Treat All' strategy impact post-test counselling messages?",
+    "completion": "It emphasizes the availability of treatment for all, the importance of early initiation, and the potential for a long and fulfilling life on ART."
+  },
+  {
+    "prompt": "What are some of the potential risks associated with retesting people on ART?",
+    "completion": "ART can suppress antibody production, leading to inaccurate HIV diagnosis."
+  },
+  {
+    "prompt": "Why might HIV testing algorithms be different for pregnant women compared to the general population?",
+    "completion": "To ensure early detection and treatment of both HIV and syphilis, minimizing the risk of mother-to-child transmission."
+  },
+  {
+    "prompt": "What is the significance of the decline in HIV prevalence among those untreated?",
+    "completion": "It highlights the impact of treatment on reducing transmission and the need for targeted testing strategies."
+  },
+  {
+    "prompt": "What are the guiding principles for effective antiretroviral therapy (ART)?",
+    "completion": "Potency of regimens, minimum adverse events, reduced pill burden, and accessibility and affordability."
+  },
+  {
+    "prompt": "Why is adherence to ART crucial?",
+    "completion": "To ensure maximal viral suppression and prevent the emergence of drug resistance."
+  },
+  {
+    "prompt": "What are the key skills required for healthcare workers involved in ART delivery?",
+    "completion": "Knowledge of ARVs, side effects, IRIS, initiating ART, switching therapies, managing OIs, and counseling abilities."
+  },
+  {
+    "prompt": "What are the major classes of antiretroviral medicines?",
+    "completion": "NRTIs, NtRTIs, NNRTIs, PIs, and INSTIs."
+  },
+  {
+    "prompt": "How do NRTIs work?",
+    "completion": "By blocking the HIV reverse transcriptase enzyme and preventing the copying of viral RNA into DNA."
+  },
+  {
+    "prompt": "How do PIs work?",
+    "completion": "By blocking the protease enzyme and preventing the assembly and release of HIV particles from infected cells."
+  },
+  {
+    "prompt": "What are some examples of INSTIs?",
+    "completion": "Raltegravir (RAL), Dolutegravir (DTG), Bictegravir, Elvitegravir."
+  },
+  {
+    "prompt": "What are the preferred first-line ART regimens in Zimbabwe?",
+    "completion": "Regimens based on two NRTIs plus an integrase strand inhibitor, such as TDF, 3TC, and DTG."
+  },
+  {
+    "prompt": "Why are PIs generally reserved for second- or third-line therapy?",
+    "completion": "To preserve their effectiveness and due to potential for more significant side effects."
+  },
+  {
+    "prompt": "What are the key aspects of monitoring patients on ART?",
+    "completion": "Adherence to medication, medication toxicities, and treatment efficacy."
+  },
+  {
+    "prompt": "When should ART generally not be stopped?",
+    "completion": "Unless the patient's life is in danger."
+  },
+  {
+    "prompt": "What is the significance of fixed-dose combinations (FDCs) in ART regimens?",
+    "completion": "They contribute to reduced pill burden and improved adherence."
+  },
+  {
+    "prompt": "What is immune reconstitution inflammatory syndrome (IRIS)?",
+    "completion": "An inflammatory condition that can occur when the immune system starts to recover after initiating ART."
+  },
+  {
+    "prompt": "Why is it important to monitor for treatment failure in patients on ART?",
+    "completion": "To identify the need for switching to second- or third-line therapy to prevent further viral replication and drug resistance."
+  },
+  {
+    "prompt": "What is the role of viral load testing in treatment decisions?",
+    "completion": "To assess treatment efficacy and guide decisions regarding switching to second- or third-line therapy."
+  },
+  {
+    "prompt": "How do NtRTIs differ from NRTIs?",
+    "completion": "Both inhibit reverse transcriptase, but NtRTIs have a slightly different mechanism of action."
+  },
+  {
+    "prompt": "What are the potential consequences of not addressing medication toxicities in patients on ART?",
+    "completion": "Reduced adherence, treatment interruption, and potential for treatment failure."
+  },
+  {
+    "prompt": "Why are NNRTIs no longer part of preferred first-line ART regimens in Zimbabwe?",
+    "completion": "They may have more side effects and are less preferred compared to integrase inhibitors."
+  },
+  {
+    "prompt": "What is the significance of generic formulations of ARVs?",
+    "completion": "They contribute to increased affordability and accessibility of ART."
+  },
+  {
+    "prompt": "When might single-medicine substitutions be considered in the early stages of ART without measuring viral load?",
+    "completion": "In the first few months of ART to address medication toxicities."
+  },
+  {
+    "prompt": "What are some examples of potential drug interactions that can occur with ARVs?",
+    "completion": "Interactions with TB medications."
+  },
+  {
+    "prompt": "Why is continuing medical education crucial for healthcare workers involved in ART delivery?",
+    "completion": "To stay updated on the latest guidelines, treatment options, and best practices."
+  },
+  {
+    "prompt": "How can clinical attachments and mentoring contribute to improving healthcare worker skills in ART delivery?",
+    "completion": "By providing practical experience and guidance in managing patients on ART."
+  },
+  {
+    "prompt": "What are the primary goals of ART?",
+    "completion": "Maximal and durable viral suppression, restoration/preservation of immune function, reduction of HIV-related morbidity, prolonged life expectancy, improved quality of life, prevention of mother-to-child transmission, and reduction of HIV transmission risk."
+  },
+  {
+    "prompt": "What assessments should be conducted before initiating ART?",
+    "completion": "Readiness to take ARVs, regimen selection, dosage, scheduling, potential adverse effects, monitoring needs, medical and psychosocial issues."
+  },
+  {
+    "prompt": "What is the recommended timeframe for initiating ART after diagnosis?",
+    "completion": "Within seven days, with same-day initiation offered whenever possible."
+  },
+  {
+    "prompt": "What are the key medical criteria for initiating ART?",
+    "completion": "All individuals with a confirmed HIV diagnosis, regardless of CD4 count or WHO clinical stage."
+  },
+  {
+    "prompt": "What should be done for patients with CD4 counts below 200 cells/mm\u00b3?",
+    "completion": "Fast-track treatment initiation, screen for symptomatic TB and cryptococcal disease, and provide cotrimoxazole prophylaxis and TB preventive therapy."
+  },
+  {
+    "prompt": "What are some key psychosocial criteria to consider before initiating ART?",
+    "completion": "Adequate counseling, treatment partner availability/disclosure, support for follow-up, patient readiness and willingness."
+  },
+  {
+    "prompt": "When might ART initiation be deferred?",
+    "completion": "Cryptococcal meningitis, need for further psychosocial counseling, TB meningitis, need for more information, terminal illness."
+  },
+  {
+    "prompt": "What is the definition of treatment adherence?",
+    "completion": "The extent to which a person's behavior corresponds with agreed recommendations from a healthcare provider."
+  },
+  {
+    "prompt": "What factors can affect adherence to ART?",
+    "completion": "Forgetting to take medications, being away from home, mental health problems, alcohol abuse, non-disclosure, stigma, medication side effects, pill burden, dietary restrictions, medicine stockouts, long distances to clinics, and cost of care."
+  },
+  {
+    "prompt": "What are some effective adherence support interventions?",
+    "completion": "Client-centered counseling, support from peer educators, community treatment supporters, mobile text messaging, pill boxes, diaries, patient reminder aids."
+  },
+  {
+    "prompt": "What are some unique considerations for ART in adolescents?",
+    "completion": "Rapid physical, neurodevelopmental, emotional, and social changes, worse access to services, higher risk of loss to follow-up, sub-optimal adherence, need for comprehensive health care and support."
+  },
+  {
+    "prompt": "What factors should be considered when determining ART dosage for adolescents?",
+    "completion": "Age, weight, stunting, wasting."
+  },
+  {
+    "prompt": "What are some chronic complications that adolescents living with HIV may experience?",
+    "completion": "Chronic lung disease, lymphoid interstitial pneumonitis, HIV-associated cardiomyopathy/nephropathy, stunting."
+  },
+  {
+    "prompt": "Why is disclosure of HIV status important for adolescents?",
+    "completion": "It empowers them to make informed decisions about their health and treatment."
+  },
+  {
+    "prompt": "How should disclosure of HIV status to adolescents be approached?",
+    "completion": "It should be a gradual process involving the adolescent, guardian, counselor, and clinician."
+  },
+  {
+    "prompt": "What are some psychosocial issues that can affect adherence in adolescents?",
+    "completion": "Stigma, lack of support, mental health challenges, challenges related to school attendance."
+  },
+  {
+    "prompt": "What are some key aspects of sexual and reproductive health education for HIV-positive adolescents?",
+    "completion": "Avoiding onward HIV transmission, delaying sexual debut, using condoms, accessing family planning and STI services, seeking help in cases of sexual assault, HPV vaccination."
+  },
+  {
+    "prompt": "What are some strategies for supporting adherence in adolescents?",
+    "completion": "Involving family members, providing peer support, addressing psychosocial issues, and offering adolescent-friendly counseling."
+  },
+  {
+    "prompt": "What are the potential benefits of early ART initiation?",
+    "completion": "Improved survival, reduced incidence of HIV infection in the community, and reduced risk of severe non-AIDS-defining conditions."
+  },
+  {
+    "prompt": "Why is it important to assess nutrition in patients initiating ART?",
+    "completion": "To identify and address potential nutritional deficiencies that can impact treatment outcomes."
+  },
+  {
+    "prompt": "What is the significance of screening for tuberculosis before initiating ART?",
+    "completion": "To prevent the development of TB-related complications and to initiate appropriate treatment promptly."
+  },
+  {
+    "prompt": "Why is it important to address potential drug interactions before initiating ART?",
+    "completion": "To ensure the effectiveness and safety of the ART regimen."
+  },
+  {
+    "prompt": "How can treatment literacy be promoted among people living with HIV?",
+    "completion": "By providing information on the benefits of early treatment, the risks of delaying treatment, and the importance of lifelong treatment adherence."
+  },
+  {
+    "prompt": "What is the significance of addressing potential psychosocial problems before initiating ART?",
+    "completion": "To minimize barriers to adherence and improve overall treatment outcomes."
+  },
+  {
+    "prompt": "What are some potential challenges to adherence in adolescents living with HIV?",
+    "completion": "Stigma, peer pressure, developmental changes, and limited access to age-appropriate support services."
+  },
+  {
+    "prompt": "Why is it important to monitor height and weight in HIV-positive adolescents?",
+    "completion": "To assess growth and development and identify potential nutritional deficiencies."
+  },
+  {
+    "prompt": "Why is it important to monitor height and weight in HIV-positive adolescents?",
+    "completion": "To assess growth and development and identify potential nutritional deficiencies."
+  },
+  {
+    "prompt": "What is the importance of addressing menstrual health in female adolescents living with HIV?",
+    "completion": "To monitor for potential complications and provide appropriate support."
+  },
+  {
+    "prompt": "What are some strategies for supporting adolescents in transitioning from pediatric to adult HIV care?",
+    "completion": "Encouraging independence in treatment management, familiarizing adolescents with the adult care setting, and providing age-appropriate counseling and support."
+  },
+  {
+    "prompt": "Why is it important to involve adolescents in decisions about their own HIV care?",
+    "completion": "To promote autonomy, improve adherence, and enhance their overall well-being."
+  },
+  {
+    "prompt": "What are some potential consequences of untreated HIV in adolescents?",
+    "completion": "Impaired growth and development, increased risk of opportunistic infections, and long-term health complications."
+  },
+  {
+    "prompt": "How can the risk of HIV transmission be reduced in the community?",
+    "completion": "Through effective ART, which suppresses viral load and reduces the risk of onward transmission."
+  },
+  {
+    "prompt": "What are some potential barriers to accessing and adhering to ART?",
+    "completion": "Poverty, stigma, discrimination, lack of transportation, inadequate healthcare infrastructure, and limited access to information and support services."
+  },
+  {
+    "prompt": "How can the risk of drug resistance be minimized in patients on ART?",
+    "completion": "By ensuring high levels of adherence to the prescribed regimen and by using appropriate treatment guidelines."
+  },
+  {
+    "prompt": "What is the role of the WHO clinical staging system in managing HIV-positive individuals?",
+    "completion": "To guide treatment decisions and identify individuals with advanced HIV disease."
+  },
+  {
+    "prompt": "Why is it important to address potential drug-drug interactions when initiating ART?",
+    "completion": "To minimize side effects and ensure the effectiveness of both the ART regimen and other medications the patient may be taking."
+  },
+  {
+    "prompt": "How can healthcare providers promote a patient-centered approach to ART initiation and management?",
+    "completion": "By actively involving patients in decision-making, addressing their individual needs and concerns, and providing culturally sensitive and supportive care."
+  },
+  {
+    "prompt": "What are the potential consequences of untreated syphilis in pregnant women?",
+    "completion": "Adverse pregnancy outcomes, including premature birth, low birth weight, and stillbirth."
+  },
+  {
+    "prompt": "How can healthcare providers address the specific needs of adolescents living with HIV?",
+    "completion": "By providing age-appropriate information and support, creating a youth-friendly environment, and involving adolescents in their own care decisions."
+  },
+  {
+    "prompt": "What are the key principles for selecting ART regimens?",
+    "completion": "Potency, safety, tolerability, adherence, accessibility, affordability, and use of fixed-dose combinations."
+  },
+  {
+    "prompt": "What are essential medicines?",
+    "completion": "Medicines that satisfy the health needs of most of the population, are affordable, available, and in appropriate dosage forms."
+  },
+  {
+    "prompt": "What are the preferred first-line ART regimens in Zimbabwe?",
+    "completion": "Regimens combining two NRTIs (TDF/3TC or TDF/FTC) with Dolutegravir (DTG)."
+  },
+  {
+    "prompt": "What is the alternative first-line regimen in Zimbabwe?",
+    "completion": "Regimens combining two NRTIs (TDF/3TC or TDF/FTC) with Efavirenz (EFV)."
+  },
+  {
+    "prompt": "What are the advantages of using DTG in first-line regimens?",
+    "completion": "High efficacy, rapid viral suppression, low potential for drug interactions, high genetic barrier to resistance."
+  },
+  {
+    "prompt": "What are potential side effects associated with DTG?",
+    "completion": "Weight gain, especially in women."
+  },
+  {
+    "prompt": "What medications should be avoided when taking DTG?",
+    "completion": "Cation-containing products such as antacids, laxatives, zinc, iron, and multivitamin supplements."
+  },
+  {
+    "prompt": "What are the potential benefits of using TAF instead of TDF?",
+    "completion": "Reduced renal and bone toxicity."
+  },
+  {
+    "prompt": "When should TAF be avoided?",
+    "completion": "In HIV/TB co-infection, pregnant women, and patients with renal impairment with creatinine clearance below 30 ml/min."
+  },
+  {
+    "prompt": "What are the potential risks associated with TDF use?",
+    "completion": "Acute kidney injury, chronic kidney disease, and reduced bone mineral density."
+  },
+  {
+    "prompt": "How is creatinine clearance calculated?",
+    "completion": "Using the Cockcroft-Gault equation."
+  },
+  {
+    "prompt": "When is the use of AZT/3TC as an NRTI backbone recommended?",
+    "completion": "In special circumstances, such as when TDF is contraindicated and TAF is unavailable."
+  },
+  {
+    "prompt": "What factors determine the choice of second-line regimens?",
+    "completion": "The specific first-line regimen that the patient failed."
+  },
+  {
+    "prompt": "When should DRV/r be avoided in second-line regimens?",
+    "completion": "In children younger than three years."
+  },
+  {
+    "prompt": "What is the role of genotype testing in selecting third-line regimens?",
+    "completion": "To identify drug resistance mutations and optimize the choice of medications."
+  },
+  {
+    "prompt": "How should DTG be dosed in patients who have previously been exposed to it in first- or second-line regimens?",
+    "completion": "50mg twice daily."
+  },
+  {
+    "prompt": "What is the recommended approach to ART initiation in patients with TB/HIV co-infection?",
+    "completion": "Initiate ART within 2-8 weeks of starting TB treatment, preferably in the TB setting."
+  },
+  {
+    "prompt": "When should ART initiation be delayed in patients with TB/HIV co-infection?",
+    "completion": "In patients with intracranial TB, delay ART for at least 4 weeks after starting TB treatment."
+  },
+  {
+    "prompt": "What is the role of cotrimoxazole prophylaxis in TB/HIV co-infected patients?",
+    "completion": "To prevent opportunistic infections."
+  },
+  {
+    "prompt": "How do rifamycins (rifampicin, rifabutin, rifapentine) interact with ARVs?",
+    "completion": "They can lower the serum concentration of some ARVs by inducing hepatic enzymes."
+  },
+  {
+    "prompt": "How is the DTG dose adjusted when co-administered with rifampicin?",
+    "completion": "The DTG dose is doubled."
+  },
+  {
+    "prompt": "What are the recommendations for managing ARV regimens in patients receiving rifampicin and taking LPV/r?",
+    "completion": "Transition to a DTG-based regimen is preferable, or increase the LPV/r dose."
+  },
+  {
+    "prompt": "What are the recommendations for managing ARV regimens in patients receiving rifampicin and taking ATV/r?",
+    "completion": "Replace ATV/r with DTG if DTG-na\u00efve, or with LPV/r if DTG-experienced."
+  },
+  {
+    "prompt": "What are the recommendations for managing ARV regimens in patients receiving rifampicin and taking TAF?",
+    "completion": "Replace TAF with ABC or TDF."
+  },
+  {
+    "prompt": "What are the recommendations for managing ARV regimens in patients receiving rifampicin and taking DRV/r?",
+    "completion": "Replace DRV/r with DTG if DTG-na\u00efve, or with LPV/r if DTG-experienced. Consider substituting rifampicin with rifabutin in third-line regimens."
+  },
+  {
+    "prompt": "What is the significance of the essential medicine concept in the selection of ART regimens?",
+    "completion": "It emphasizes the need for effective, affordable, and accessible medications for the majority of the population."
+  },
+  {
+    "prompt": "What are the advantages of using fixed-dose combinations (FDCs) of ARVs?",
+    "completion": "Improved adherence and reduced pill burden."
+  },
+  {
+    "prompt": "What are some examples of dual NRTI combinations used in first-line regimens?",
+    "completion": "TDF/3TC, TDF/FTC, TAF/FTC, TAF/3TC, AZT/3TC, ABC/3TC."
+  },
+  {
+    "prompt": "Why is it important to consider weight when selecting ART regimens for adolescents?",
+    "completion": "To ensure appropriate dosing, as some regimens may require adjustments based on weight."
+  },
+  {
+    "prompt": "What are some non-infectious complications that HIV-positive adolescents may experience?",
+    "completion": "Chronic lung disease, lymphoid interstitial pneumonitis, HIV-associated cardiomyopathy/nephropathy, stunting."
+  },
+  {
+    "prompt": "What are some strategies for supporting adherence in adolescents?",
+    "completion": "Involving family members, providing peer support, addressing psychosocial issues, and offering adolescent-friendly counseling."
+  },
+  {
+    "prompt": "Why is it important to address potential drug interactions between ARVs and TB medications?",
+    "completion": "To ensure the effectiveness of both TB and HIV treatment and minimize side effects."
+  },
+  {
+    "prompt": "How does rifampicin affect the metabolism of some ARVs?",
+    "completion": "It induces hepatic enzymes, leading to decreased serum concentrations of certain ARVs."
+  },
+  {
+    "prompt": "Why is it important to monitor patients for potential side effects of ARVs?",
+    "completion": "To ensure treatment safety and allow for timely adjustments to the regimen if needed."
+  },
+  {
+    "prompt": "What are some potential side effects of NRTIs?",
+    "completion": "Lactic acidosis, lipodystrophy, peripheral neuropathy."
+  },
+  {
+    "prompt": "What are some potential side effects of PIs?",
+    "completion": "Hyperglycemia, hyperlipidemia, metabolic syndrome."
+  },
+  {
+    "prompt": "How can the risk of medication interactions be minimized?",
+    "completion": "Through careful medication reconciliation and regular monitoring of patients."
+  },
+  {
+    "prompt": "What is the importance of adherence counseling for patients on ART?",
+    "completion": "To address potential barriers to adherence, provide support, and improve treatment outcomes."
+  },
+  {
+    "prompt": "Why is it crucial to monitor patients for treatment success?",
+    "completion": "To ensure that the chosen regimen is effectively suppressing viral replication and to identify potential treatment failures early on."
+  },
+  {
+    "prompt": "How does viral load monitoring help guide treatment decisions?",
+    "completion": "It helps assess treatment effectiveness and determine the need for regimen changes."
+  },
+  {
+    "prompt": "What are some potential consequences of treatment failure?",
+    "completion": "Viral rebound, disease progression, and increased risk of transmission."
+  },
+  {
+    "prompt": "Why is it important to address potential drug interactions between ARVs and other medications?",
+    "completion": "To prevent decreased efficacy of ARVs and increase the risk of side effects."
+  },
+  {
+    "prompt": "What are some examples of other medications that may interact with ARVs?",
+    "completion": "Some anticonvulsants, antifungals, and herbal remedies."
+  },
+  {
+    "prompt": "What is the role of the WHO Expert Committee on Essential Medicines?",
+    "completion": "To define and select essential medicines that meet the health needs of most of the population."
+  },
+  {
+    "prompt": "What are some of the factors that should be considered when selecting an ART regimen for an individual patient?",
+    "completion": "Patient characteristics, drug interactions, potential side effects, adherence considerations, and availability of medications."
+  },
+  {
+    "prompt": "Why is it important to regularly review and update ART guidelines?",
+    "completion": "To incorporate new evidence from clinical trials, address emerging drug resistance, and optimize treatment outcomes."
+  },
+  {
+    "prompt": "What are the potential consequences of not addressing drug interactions between ARVs and other medications?",
+    "completion": "Treatment failure, increased risk of side effects, and potentially life-threatening complications."
+  },
+  {
+    "prompt": "What is the significance of using simplified and user-friendly FDCs for ARVs?",
+    "completion": "To improve adherence and reduce the complexity of treatment regimens for patients."
+  },
+  {
+    "prompt": "What are some of the factors that contribute to the success of ART?",
+    "completion": "Adherence to the prescribed regimen, early initiation of treatment, and regular monitoring and management of side effects."
+  },
+  {
+    "prompt": "Why is it important to involve patients in the decision-making process regarding their ART regimen?",
+    "completion": "To ensure patient-centered care, improve adherence, and address any concerns or preferences the patient may have."
+  },
+  {
+    "prompt": "What are some of the challenges in managing ART in adolescents?",
+    "completion": "Adherence issues, developmental changes, and the need for age-appropriate counseling and support."
+  },
+  {
+    "prompt": "Why is it important to monitor renal function in patients receiving TDF-containing regimens?",
+    "completion": "To assess for potential kidney toxicity."
+  },
+  {
+    "prompt": "What is the primary goal of the Zimbabwean PMTCT program?",
+    "completion": "Elimination of MTCT of both HIV and syphilis."
+  },
+  {
+    "prompt": "What are the four pillars of the UN's comprehensive PMTCT strategy?",
+    "completion": "1. Primary prevention of HIV infection among women of reproductive age. 2. Prevention of unintended pregnancies in HIV-infected women. 3. Prevention of HIV transmission from mother to infant. 4. Provision of comprehensive care to mothers living with HIV, their children, and families."
+  },
+  {
+    "prompt": "What are the key benefits of providing lifelong ART to all pregnant and breastfeeding women?",
+    "completion": "Improving maternal health, preventing mother-to-child transmission of HIV, and preventing the transmission of HIV from the mother to the sexual partner."
+  },
+  {
+    "prompt": "What are the eight elements of comprehensive HIV prevention in antenatal and postnatal care?",
+    "completion": "HTS, HTS for partners, partner referral for ART, partner referral for VMMC, STI screening and treatment, condom promotion, risk reduction counseling, and PrEP."
+  },
+  {
+    "prompt": "What are the recommendations for HIV testing in pregnant women?",
+    "completion": "All pregnant women should be tested for HIV and syphilis at least once and as early as possible during pregnancy."
+  },
+  {
+    "prompt": "What are the recommendations for retesting HIV-negative pregnant and breastfeeding women?",
+    "completion": "Retest in the first trimester, third trimester/delivery, 6 weeks postnatal, and 6 monthly during breastfeeding."
+  },
+  {
+    "prompt": "What services should be included in the service package for pregnant women who test HIV-positive?",
+    "completion": "Discussion of childbirth plans, ART initiation, partner testing, TB screening, syphilis screening, hepatitis B screening, counseling on maternal nutrition, infant feeding counseling, HIV testing for the infant, and sexual and reproductive health counseling."
+  },
+  {
+    "prompt": "When should ART be initiated in all HIV-positive pregnant and breastfeeding women?",
+    "completion": "As soon as possible after HIV diagnosis, irrespective of CD4 count or WHO clinical stage."
+  },
+  {
+    "prompt": "What is the preferred first-line ART regimen for pregnant and breastfeeding women?",
+    "completion": "TDF + 3TC + DTG."
+  },
+  {
+    "prompt": "What are the benefits of DTG for pregnant and breastfeeding women?",
+    "completion": "Improved maternal viral suppression, reduced maternal deaths, fewer sexual transmissions, and fewer mother-to-child transmissions."
+  },
+  {
+    "prompt": "What is the significance of viral load monitoring in pregnant and breastfeeding women?",
+    "completion": "To assess treatment effectiveness and guide regimen changes if necessary."
+  },
+  {
+    "prompt": "What factors define a high-risk infant for HIV transmission?",
+    "completion": "Mother with high viral load (>1000 copies/ml) during the last 4 weeks before delivery, mother received less than 4 weeks of ART at the time of delivery, mother was newly diagnosed with HIV during labor and delivery, mother has advanced HIV disease."
+  },
+  {
+    "prompt": "What is the recommended infant prophylaxis for high-risk infants?",
+    "completion": "Daily AZT plus NVP for 6 weeks for formula-fed infants and 12 weeks for breastfed infants."
+  },
+  {
+    "prompt": "What is the recommended infant prophylaxis for low-risk infants?",
+    "completion": "Daily NVP for 6 weeks for both formula-fed and breastfed infants."
+  },
+  {
+    "prompt": "What is the role of cotrimoxazole prophylaxis in HIV-exposed infants?",
+    "completion": "To prevent opportunistic infections."
+  },
+  {
+    "prompt": "What are the WHO recommendations for infant feeding for HIV-infected mothers?",
+    "completion": "Promote, support, and protect breastfeeding, while also providing information and support for mothers who choose not to breastfeed."
+  },
+  {
+    "prompt": "What are the conditions that must be met for safe and effective exclusive formula feeding?",
+    "completion": "Safe water and sanitation, reliable access to sufficient and appropriate formula, ability to prepare formula safely, family support, and access to comprehensive child health services."
+  },
+  {
+    "prompt": "Why is early infant diagnosis of HIV important?",
+    "completion": "To ensure timely initiation of ART and improve treatment outcomes for HIV-infected infants."
+  },
+  {
+    "prompt": "What is the recommended diagnostic test for HIV infection in infants less than 18 months of age?",
+    "completion": "Virologic testing (NAT/PCR)."
+  },
+  {
+    "prompt": "What should be done if an infant has an initial positive virologic test result?",
+    "completion": "Initiate ART immediately and collect a second specimen for confirmatory testing."
+  },
+  {
+    "prompt": "When should antibody testing be performed to diagnose HIV infection in infants?",
+    "completion": "At or after 18 months of age, or at least 3 months after cessation of breastfeeding."
+  },
+  {
+    "prompt": "What are the key targets of the Zimbabwean PMTCT program?",
+    "completion": "Antenatal care coverage of \u2265 95%, HIV and syphilis testing coverage of pregnant women \u2265 95%, ART coverage of HIV-positive pregnant women \u2265 95%, and treatment of syphilis sero-positive pregnant women \u2265 95%."
+  },
+  {
+    "prompt": "What are the four pillars of the UN's comprehensive PMTCT strategy?",
+    "completion": "1. Primary prevention of HIV infection among women of reproductive age. 2. Prevention of unintended pregnancies in HIV-infected women. 3. Prevention of HIV transmission from mother to infant. 4. Provision of comprehensive care to mothers living with HIV, their children, and families."
+  },
+  {
+    "prompt": "How does ART for pregnant and breastfeeding women contribute to HIV prevention?",
+    "completion": "By improving the mother's health, preventing mother-to-child transmission of HIV, and reducing the transmission of HIV from the mother to the sexual partner."
+  },
+  {
+    "prompt": "What are the key components of HTS for pregnant and breastfeeding women?",
+    "completion": "PITC, partner testing, partner referral for ART, partner referral for VMMC, STI screening and treatment, condom promotion, risk reduction counseling, and PrEP."
+  },
+  {
+    "prompt": "What are the recommendations for HIV testing in pregnant women?",
+    "completion": "All pregnant women should be tested for HIV and syphilis at least once and as early as possible during pregnancy."
+  },
+  {
+    "prompt": "What are the recommendations for retesting HIV-negative pregnant and breastfeeding women?",
+    "completion": "Retest in the first trimester, third trimester/delivery, 6 weeks postnatal, and 6 monthly during breastfeeding."
+  },
+  {
+    "prompt": "What services should be included in the service package for pregnant women who test HIV-positive?",
+    "completion": "Discussion of childbirth plans, ART initiation, partner testing, TB screening, syphilis screening, hepatitis B screening, counseling on maternal nutrition, infant feeding counseling, HIV testing for the infant, and sexual and reproductive health counseling."
+  },
+  {
+    "prompt": "When should ART be initiated in all HIV-positive pregnant and breastfeeding women?",
+    "completion": "As soon as possible after HIV diagnosis, irrespective of CD4 count or WHO clinical stage."
+  },
+  {
+    "prompt": "What is the preferred first-line ART regimen for pregnant and breastfeeding women?",
+    "completion": "TDF + 3TC + DTG."
+  },
+  {
+    "prompt": "What are the benefits of DTG for pregnant and breastfeeding women?",
+    "completion": "Improved maternal viral suppression, reduced maternal deaths, fewer sexual transmissions, and fewer mother-to-child transmissions."
+  },
+  {
+    "prompt": "What is the significance of viral load monitoring in pregnant and breastfeeding women?",
+    "completion": "To assess treatment effectiveness and guide regimen changes if necessary."
+  },
+  {
+    "prompt": "What factors define a high-risk infant for HIV transmission?",
+    "completion": "Mother with high viral load (>1000 copies/ml) during the last 4 weeks before delivery, mother received less than 4 weeks of ART at the time of delivery, mother was newly diagnosed with HIV during labor and delivery, mother has advanced HIV disease."
+  },
+  {
+    "prompt": "What is the recommended infant prophylaxis for high-risk infants?",
+    "completion": "Daily AZT plus NVP for 6 weeks for formula-fed infants and 12 weeks for breastfed infants."
+  },
+  {
+    "prompt": "What is the recommended infant prophylaxis for low-risk infants?",
+    "completion": "Daily NVP for 6 weeks for both formula-fed and breastfed infants."
+  },
+  {
+    "prompt": "What is the role of cotrimoxazole prophylaxis in HIV-exposed infants?",
+    "completion": "To prevent opportunistic infections."
+  },
+  {
+    "prompt": "What are the WHO recommendations for infant feeding for HIV-infected mothers?",
+    "completion": "Promote, support, and protect breastfeeding, while also providing information and support for mothers who choose not to breastfeed."
+  },
+  {
+    "prompt": "What are the conditions that must be met for safe and effective exclusive formula feeding?",
+    "completion": "Safe water and sanitation, reliable access to sufficient and appropriate formula, ability to prepare formula safely, family support, and access to comprehensive child health services."
+  },
+  {
+    "prompt": "Why is early infant diagnosis of HIV important?",
+    "completion": "To ensure timely initiation of ART and improve treatment outcomes for HIV-infected infants."
+  },
+  {
+    "prompt": "What is the recommended diagnostic test for HIV infection in infants less than 18 months of age?",
+    "completion": "Virologic testing (NAT/PCR)."
+  },
+  {
+    "prompt": "What should be done if an infant has an initial positive virologic test result?",
+    "completion": "Initiate ART immediately and collect a second specimen for confirmatory testing."
+  },
+  {
+    "prompt": "When should antibody testing be performed to diagnose HIV infection in infants?",
+    "completion": "At or after 18 months of age, or at least 3 months after cessation of breastfeeding."
+  },
+  {
+    "prompt": "What are the potential challenges in implementing PMTCT programs?",
+    "completion": "Limited access to healthcare services, stigma and discrimination, lack of trained healthcare workers, and inadequate resources."
+  },
+  {
+    "prompt": "How can the risk of mother-to-child transmission be further reduced?",
+    "completion": "By improving access to comprehensive HIV prevention services for women of reproductive age, including PrEP and VMMC."
+  },
+  {
+    "prompt": "What are the key targets of the Zimbabwean PMTCT program?",
+    "completion": "Antenatal care coverage of \u2265 95%, HIV and syphilis testing coverage of pregnant women \u2265 95%, ART coverage of HIV-positive pregnant women \u2265 95%, and treatment of syphilis sero-positive pregnant women \u2265 95%."
+  },
+  {
+    "prompt": "What are the four pillars of the UN's comprehensive PMTCT strategy?",
+    "completion": "1. Primary prevention of HIV infection among women of reproductive age. 2. Prevention of unintended pregnancies in HIV-infected women. 3. Prevention of HIV transmission from mother to infant. 4. Provision of comprehensive care to mothers living with HIV, their children, and families."
+  },
+  {
+    "prompt": "How does ART for pregnant and breastfeeding women contribute to HIV prevention?",
+    "completion": "By improving the mother's health, preventing mother-to-child transmission of HIV, and reducing the transmission of HIV from the mother to the sexual partner."
+  },
+  {
+    "prompt": "What are the key components of HTS for pregnant and breastfeeding women?",
+    "completion": "PITC, partner testing, partner referral for ART, partner referral for VMMC, STI screening and treatment, condom promotion, risk reduction counseling, and PrEP."
+  },
+  {
+    "prompt": "What are the recommendations for HIV testing in pregnant women?",
+    "completion": "All pregnant women should be tested for HIV and syphilis at least once and as early as possible during pregnancy."
+  },
+  {
+    "prompt": "What are the recommendations for retesting HIV-negative pregnant and breastfeeding women?",
+    "completion": "Retest in the first trimester, third trimester/delivery, 6 weeks postnatal, and 6 monthly during breastfeeding."
+  },
+  {
+    "prompt": "What services should be included in the service package for pregnant women who test HIV-positive?",
+    "completion": "Discussion of childbirth plans, ART initiation, partner testing, TB screening, syphilis screening, hepatitis B screening, counseling on maternal nutrition, infant feeding counseling, HIV testing for the infant, and sexual and reproductive health counseling."
+  },
+  {
+    "prompt": "When should ART be initiated in all HIV-positive pregnant and breastfeeding women?",
+    "completion": "As soon as possible after HIV diagnosis, irrespective of CD4 count or WHO clinical stage."
+  },
+  {
+    "prompt": "What is the preferred first-line ART regimen for pregnant and breastfeeding women?",
+    "completion": "TDF + 3TC + DTG."
+  },
+  {
+    "prompt": "What are the benefits of DTG for pregnant and breastfeeding women?",
+    "completion": "Improved maternal viral suppression, reduced maternal deaths, fewer sexual transmissions, and fewer mother-to-child transmissions."
+  },
+  {
+    "prompt": "What is the significance of viral load monitoring in pregnant and breastfeeding women?",
+    "completion": "To assess treatment effectiveness and guide regimen changes if necessary."
+  },
+  {
+    "prompt": "What factors define a high-risk infant for HIV transmission?",
+    "completion": "Mother with high viral load (>1000 copies/ml) during the last 4 weeks before delivery, mother received less than 4 weeks of ART at the time of delivery, mother was newly diagnosed with HIV during labor and delivery, mother has advanced HIV disease."
+  },
+  {
+    "prompt": "What is the recommended infant prophylaxis for high-risk infants?",
+    "completion": "Daily AZT plus NVP for 6 weeks for formula-fed infants and 12 weeks for breastfed infants."
+  },
+  {
+    "prompt": "What is the recommended infant prophylaxis for low-risk infants?",
+    "completion": "Daily NVP for 6 weeks for both formula-fed and breastfed infants."
+  },
+  {
+    "prompt": "What is the role of cotrimoxazole prophylaxis in HIV-exposed infants?",
+    "completion": "To prevent opportunistic infections."
+  },
+  {
+    "prompt": "What are the WHO recommendations for infant feeding for HIV-infected mothers?",
+    "completion": "Promote, support, and protect breastfeeding, while also providing information and support for mothers who choose not to breastfeed."
+  },
+  {
+    "prompt": "What are the conditions that must be met for safe and effective exclusive formula feeding?",
+    "completion": "Safe water and sanitation, reliable access to sufficient and appropriate formula, ability to prepare formula safely, family support, and access to comprehensive child health services."
+  },
+  {
+    "prompt": "Why is early infant diagnosis of HIV important?",
+    "completion": "To ensure timely initiation of ART and improve treatment outcomes for HIV-infected infants."
+  },
+  {
+    "prompt": "What is the recommended diagnostic test for HIV infection in infants less than 18 months of age?",
+    "completion": "Virologic testing (NAT/PCR)."
+  },
+  {
+    "prompt": "What should be done if an infant has an initial positive virologic test result?",
+    "completion": "Initiate ART immediately and collect a second specimen for confirmatory testing."
+  },
+  {
+    "prompt": "When should antibody testing be performed to diagnose HIV infection in infants?",
+    "completion": "At or after 18 months of age, or at least 3 months after cessation of breastfeeding."
+  },
+  {
+    "prompt": "What are the potential challenges in implementing PMTCT programs?",
+    "completion": "Limited access to healthcare services, stigma and discrimination, lack of trained healthcare workers, and inadequate resources."
+  },
+  {
+    "prompt": "How can the risk of mother-to-child transmission be further reduced?",
+    "completion": "By improving access to comprehensive HIV prevention services for women of reproductive age, including PrEP and VMMC."
+  },
+  {
+    "prompt": "What are the implications of maternal HIV infection on infant feeding choices?",
+    "completion": "Mothers need to make informed decisions about breastfeeding versus formula feeding based on their individual circumstances, risks, and preferences, with appropriate counseling and support."
+  },
+  {
+    "prompt": "What are the key strategies for case finding of children living with HIV?",
+    "completion": "Facility-based testing, index case and family testing, targeted testing, and community-based testing."
+  },
+  {
+    "prompt": "When should ART be initiated in all children living with HIV?",
+    "completion": "As soon as possible after diagnosis, regardless of CD4 count or WHO clinical stage."
+  },
+  {
+    "prompt": "What is the preferred first-line ART regimen for neonates?",
+    "completion": "AZT + 3TC + RAL."
+  },
+  {
+    "prompt": "What is the preferred first-line ART regimen for children older than 4 weeks and weighing at least 3kg?",
+    "completion": "ABC + 3TC + DTG."
+  },
+  {
+    "prompt": "When can TAF be used in children?",
+    "completion": "In children weighing more than 25kg."
+  },
+  {
+    "prompt": "What are the considerations for using DTG in children?",
+    "completion": "Dosing adjustments based on weight, use of dispersible tablets for younger children, and transition to 50mg tablets for older children."
+  },
+  {
+    "prompt": "What are the key considerations before switching to a second-line ART regimen in children?",
+    "completion": "Duration of first-line regimen, adherence assessment, resolution of inter-current OIs, and assessment for nutritional deficiencies."
+  },
+  {
+    "prompt": "What are the key components of the STOP AIDS strategy for children with advanced HIV disease?",
+    "completion": "Screen for TB, treat opportunistic infections, optimize ART, and prevent infections."
+  },
+  {
+    "prompt": "When is cotrimoxazole prophylaxis recommended for children living with HIV?",
+    "completion": "Initiate at 6 weeks postnatal or at first contact after 6 weeks and continue until adulthood."
+  },
+  {
+    "prompt": "What are some common comorbidities in children living with HIV?",
+    "completion": "Developmental delay, neurocognitive impairment, mental health disorders, chronic lung disease, heart disease, and kidney disease."
+  },
+  {
+    "prompt": "What are the recommendations for physical activity in children living with HIV?",
+    "completion": "At least 60 minutes of moderate- to vigorous-intensity physical activity most days of the week."
+  },
+  {
+    "prompt": "What is the role of viral load monitoring in children receiving ART?",
+    "completion": "To assess treatment effectiveness, identify treatment failure, and guide regimen changes."
+  },
+  {
+    "prompt": "What are some strategies to improve retention in care for children living with HIV?",
+    "completion": "Peer-to-peer support, point-of-care EID, expedited result turnaround, family-centered care, appointment spacing, multi-month dispensing, and adolescent-friendly services."
+  },
+  {
+    "prompt": "What are the key considerations for administering medications to children?",
+    "completion": "Age-appropriate dosing, palatability of medications, potential drug interactions, and caregiver education."
+  },
+  {
+    "prompt": "Why is disclosure of HIV status to the child important?",
+    "completion": "To empower the child to make informed decisions about their health and treatment, and to improve adherence."
+  },
+  {
+    "prompt": "What are the key components of the package of care for children with advanced HIV disease?",
+    "completion": "Screening for TB, treating opportunistic infections, optimizing ART, and preventing infections."
+  },
+  {
+    "prompt": "What is the significance of monitoring growth and development in children living with HIV?",
+    "completion": "To identify and address potential nutritional deficiencies and developmental delays."
+  },
+  {
+    "prompt": "What are the potential challenges in providing care for children living with HIV?",
+    "completion": "Limited access to healthcare services, stigma and discrimination, lack of trained healthcare workers, and inadequate resources."
+  },
+  {
+    "prompt": "How can the quality of care for children living with HIV be improved?",
+    "completion": "By strengthening healthcare systems, improving access to quality medications and diagnostics, and providing comprehensive support services for families."
+  },
+  {
+    "prompt": "What is the importance of family-centered care in the management of HIV in children?",
+    "completion": "To improve adherence, support family well-being, and reduce the impact of HIV on the entire family."
+  },
+  {
+    "prompt": "What are the key strategies for case finding of children living with HIV?",
+    "completion": "Facility-based testing, index case and family testing, targeted testing, and community-based testing."
+  },
+  {
+    "prompt": "When should ART be initiated in all children living with HIV?",
+    "completion": "As soon as possible after diagnosis, regardless of CD4 count or WHO clinical stage."
+  },
+  {
+    "prompt": "What is the preferred first-line ART regimen for neonates?",
+    "completion": "AZT + 3TC + RAL."
+  },
+  {
+    "prompt": "What is the preferred first-line ART regimen for children older than 4 weeks and weighing at least 3kg?",
+    "completion": "ABC + 3TC + DTG."
+  },
+  {
+    "prompt": "When can TAF be used in children?",
+    "completion": "In children weighing more than 25kg."
+  },
+  {
+    "prompt": "What are the considerations for using DTG in children?",
+    "completion": "Dosing adjustments based on weight, use of dispersible tablets for younger children, and transition to 50mg tablets for older children."
+  },
+  {
+    "prompt": "What are the key considerations before switching to a second-line ART regimen in children?",
+    "completion": "Duration of first-line regimen, adherence assessment, resolution of inter-current OIs, and assessment for nutritional deficiencies."
+  },
+  {
+    "prompt": "What are the key components of the STOP AIDS strategy for children with advanced HIV disease?",
+    "completion": "Screen for TB, treat opportunistic infections, optimize ART, and prevent infections."
+  },
+  {
+    "prompt": "When is cotrimoxazole prophylaxis recommended for children living with HIV?",
+    "completion": "Initiate at 6 weeks postnatal or at first contact after 6 weeks and continue until adulthood."
+  },
+  {
+    "prompt": "What are some common comorbidities in children living with HIV?",
+    "completion": "Developmental delay, neurocognitive impairment, mental health disorders, chronic lung disease, heart disease, and kidney disease."
+  },
+  {
+    "prompt": "What are the recommendations for physical activity in children living with HIV?",
+    "completion": "At least 60 minutes of moderate- to vigorous-intensity physical activity most days of the week."
+  },
+  {
+    "prompt": "What is the role of viral load monitoring in children receiving ART?",
+    "completion": "To assess treatment effectiveness, identify treatment failure, and guide regimen changes."
+  },
+  {
+    "prompt": "What are some strategies to improve retention in care for children living with HIV?",
+    "completion": "Peer-to-peer support, point-of-care EID, expedited result turnaround, family-centered care, appointment spacing, multi-month dispensing, and adolescent-friendly services."
+  },
+  {
+    "prompt": "What are the key considerations for administering medications to children?",
+    "completion": "Age-appropriate dosing, palatability of medications, potential drug interactions, and caregiver education."
+  },
+  {
+    "prompt": "Why is disclosure of HIV status to the child important?",
+    "completion": "To empower the child to make informed decisions about their health and treatment, and to improve adherence."
+  },
+  {
+    "prompt": "What are the key components of the package of care for children with advanced HIV disease?",
+    "completion": "Screen for TB, treat opportunistic infections, optimize ART, and prevent infections."
+  },
+  {
+    "prompt": "What is the significance of monitoring growth and development in children living with HIV?",
+    "completion": "To identify and address potential nutritional deficiencies and developmental delays."
+  },
+  {
+    "prompt": "What are the potential challenges in providing care for children living with HIV?",
+    "completion": "Limited access to healthcare services, stigma and discrimination, lack of trained healthcare workers, and inadequate resources."
+  },
+  {
+    "prompt": "How can the quality of care for children living with HIV be improved?",
+    "completion": "By implementing evidence-based guidelines, providing comprehensive and integrated services, and addressing the social and economic determinants of health."
+  },
+  {
+    "prompt": "What is the role of community-based organizations in supporting children living with HIV?",
+    "completion": "Providing psychosocial support, home-based care, and linking families to essential services."
+  },
+  {
+    "prompt": "How can the impact of HIV on the education of children be minimized?",
+    "completion": "By providing access to education, addressing stigma and discrimination in schools, and providing appropriate support services for children living with HIV."
+  },
+  {
+    "prompt": "What are the long-term goals of HIV treatment in children?",
+    "completion": "To achieve and maintain viral suppression, prevent disease progression, and improve the quality of life and life expectancy of children living with HIV."
+  },
+  {
+    "prompt": "How can the needs of adolescents living with HIV be addressed?",
+    "completion": "By providing age-appropriate services, including mental health support, sexual and reproductive health services, and support for educational and vocational goals."
+  },
+  {
+    "prompt": "What are the key considerations for managing TB in children living with HIV?",
+    "completion": "Early initiation of both anti-TB treatment and ART, appropriate drug regimens, and careful monitoring for drug interactions."
+  },
+  {
+    "prompt": "How is the decision to switch to a second-line regimen made in children?",
+    "completion": "Based on factors such as virologic failure, drug resistance, and intolerance to the current regimen."
+  },
+  {
+    "prompt": "What are the key components of initial evaluation for patients starting ART?",
+    "completion": "Detailed history, physical examination, HIV confirmation test, CD4 count, full blood count, serum creatinine, liver function tests, blood pressure, syphilis test, hepatitis B and C screening."
+  },
+  {
+    "prompt": "What is the importance of adherence counseling in ART?",
+    "completion": "To ensure treatment effectiveness by improving medication adherence."
+  },
+  {
+    "prompt": "What are the different types of clinic visits for patients on ART?",
+    "completion": "Clinical visits, refill visits, unscheduled visits, and virtual/telephone visits."
+  },
+  {
+    "prompt": "What are some common side effects of ART?",
+    "completion": "Weight gain, dyslipidemia, hepatotoxicity, hypersensitivity reactions, insomnia, anemia, and neurotoxicity."
+  },
+  {
+    "prompt": "How can weight gain associated with ART be managed?",
+    "completion": "Promoting healthy lifestyle changes, such as diet and exercise."
+  },
+  {
+    "prompt": "What are some important drug interactions with DTG?",
+    "completion": "Rifampicin, metformin, and some antacids."
+  },
+  {
+    "prompt": "What are some important drug interactions with EFV?",
+    "completion": "Carbamazepine, phenobarbital, phenytoin, and some hormonal contraceptives."
+  },
+  {
+    "prompt": "What is Immune Reconstitution Inflammatory Syndrome (IRIS)?",
+    "completion": "A condition where the immune system overreacts to infections that were present before starting ART."
+  },
+  {
+    "prompt": "How is IRIS managed?",
+    "completion": "Continue ART and treat the underlying infection."
+  },
+  {
+    "prompt": "What is the gold standard for monitoring the effectiveness of ART?",
+    "completion": "Viral load testing."
+  },
+  {
+    "prompt": "What are the criteria for virological failure?",
+    "completion": "Two consecutive viral load measurements greater than 1000 copies/ml after 3 months with enhanced adherence counseling."
+  },
+  {
+    "prompt": "What are some key considerations for managing HIV in older adults?",
+    "completion": "Increased risk of drug interactions, higher prevalence of comorbidities, and increased risk of mental health issues."
+  },
+  {
+    "prompt": "What are the potential consequences of untreated side effects of ART?",
+    "completion": "Treatment interruption, adherence challenges, and treatment failure."
+  },
+  {
+    "prompt": "Why is it important to monitor patients for adherence to ART?",
+    "completion": "To ensure treatment effectiveness and identify potential barriers to adherence."
+  },
+  {
+    "prompt": "How can adherence to ART be improved?",
+    "completion": "Through effective counseling, patient education, and addressing social and economic barriers."
+  },
+  {
+    "prompt": "What are the potential consequences of treatment failure?",
+    "completion": "Viral load rebound, disease progression, and increased risk of drug resistance."
+  },
+  {
+    "prompt": "What is the role of the healthcare provider in managing side effects of ART?",
+    "completion": "To monitor for side effects, provide appropriate counseling and support, and adjust the treatment regimen as needed."
+  },
+  {
+    "prompt": "How can the risk of drug interactions be minimized?",
+    "completion": "Through careful medication reconciliation and regular review of all medications being taken by the patient."
+  },
+  {
+    "prompt": "What are the implications of polypharmacy in older adults living with HIV?",
+    "completion": "Increased risk of drug interactions and adverse events."
+  },
+  {
+    "prompt": "What are some of the key considerations for managing mental health in people living with HIV?",
+    "completion": "Screening for depression and anxiety, providing appropriate counseling and support, and ensuring access to mental health services."
+  },
+  {
+    "prompt": "What are the key components of initial evaluation for patients starting ART?",
+    "completion": "Detailed history, physical examination, HIV confirmation test, CD4 count, full blood count, serum creatinine, liver function tests, blood pressure, syphilis test, hepatitis B and C screening."
+  },
+  {
+    "prompt": "What is the importance of adherence counseling in ART?",
+    "completion": "To ensure treatment effectiveness by improving medication adherence."
+  },
+  {
+    "prompt": "What are the different types of clinic visits for patients on ART?",
+    "completion": "Clinical visits, refill visits, unscheduled visits, and virtual/telephone visits."
+  },
+  {
+    "prompt": "What are some common side effects of ART?",
+    "completion": "Weight gain, dyslipidemia, hepatotoxicity, hypersensitivity reactions, insomnia, anemia, and neurotoxicity."
+  },
+  {
+    "prompt": "How can weight gain associated with ART be managed?",
+    "completion": "Promoting healthy lifestyle changes, such as diet and exercise."
+  },
+  {
+    "prompt": "What are some important drug interactions with DTG?",
+    "completion": "Rifampicin, metformin, and some antacids."
+  },
+  {
+    "prompt": "What are some important drug interactions with EFV?",
+    "completion": "Carbamazepine, phenobarbital, phenytoin, and some hormonal contraceptives."
+  },
+  {
+    "prompt": "What is Immune Reconstitution Inflammatory Syndrome (IRIS)?",
+    "completion": "A condition where the immune system overreacts to infections that were present before starting ART."
+  },
+  {
+    "prompt": "How is IRIS managed?",
+    "completion": "Continue ART and treat the underlying infection."
+  },
+  {
+    "prompt": "What is the gold standard for monitoring the effectiveness of ART?",
+    "completion": "Viral load testing."
+  },
+  {
+    "prompt": "What are the criteria for virological failure?",
+    "completion": "Two consecutive viral load measurements greater than 1000 copies/ml after 3 months with enhanced adherence counseling."
+  },
+  {
+    "prompt": "What are some key considerations for managing HIV in older adults?",
+    "completion": "Increased risk of drug interactions, higher prevalence of comorbidities, and increased risk of mental health issues."
+  },
+  {
+    "prompt": "What are the potential consequences of untreated side effects of ART?",
+    "completion": "Treatment interruption, adherence challenges, and treatment failure."
+  },
+  {
+    "prompt": "Why is it important to monitor patients for adherence to ART?",
+    "completion": "To ensure treatment effectiveness and identify potential barriers to adherence."
+  },
+  {
+    "prompt": "How can adherence to ART be improved?",
+    "completion": "Through effective counseling, patient education, and addressing social and economic barriers."
+  },
+  {
+    "prompt": "What are the potential consequences of treatment failure?",
+    "completion": "Viral load rebound, disease progression, and increased risk of drug resistance."
+  },
+  {
+    "prompt": "What is the role of the healthcare provider in managing side effects of ART?",
+    "completion": "To monitor for side effects, provide appropriate counseling and support, and adjust the treatment regimen as needed."
+  },
+  {
+    "prompt": "How can the risk of drug interactions be minimized?",
+    "completion": "Through careful medication reconciliation and regular review of all medications being taken by the patient."
+  },
+  {
+    "prompt": "What are the implications of polypharmacy in older adults living with HIV?",
+    "completion": "Increased risk of drug interactions and adverse events."
+  },
+  {
+    "prompt": "What are some of the key considerations for managing mental health in people living with HIV?",
+    "completion": "Screening for depression and anxiety, providing appropriate counseling and support, and ensuring access to mental health services."
+  },
+  {
+    "prompt": "What are the potential benefits of early initiation of ART?",
+    "completion": "Reduced risk of disease progression, improved immune function, and reduced risk of transmission."
+  },
+  {
+    "prompt": "What is the importance of regular clinical assessments in patients on ART?",
+    "completion": "To monitor for clinical signs and symptoms of HIV disease and assess the overall health status of the patient."
+  },
+  {
+    "prompt": "What are the potential consequences of poor adherence to ART?",
+    "completion": "Viral load suppression failure, increased risk of drug resistance, and disease progression."
+  },
+  {
+    "prompt": "What are the potential long-term effects of HIV infection on the body?",
+    "completion": "Cardiovascular disease, kidney disease, neurological disorders, and metabolic disorders."
+  },
+  {
+    "prompt": "What is the role of patient education in the management of HIV?",
+    "completion": "To empower patients to make informed decisions about their treatment and manage their health effectively."
+  },
+  {
+    "prompt": "How can the quality of life for people living with HIV be improved?",
+    "completion": "Through effective ART, management of comorbidities, and provision of psychosocial support."
+  },
+  {
+    "prompt": "What are the implications of stigma and discrimination on the management of HIV?",
+    "completion": "Barriers to accessing healthcare, poor adherence to treatment, and negative mental health outcomes."
+  },
+  {
+    "prompt": "What is the importance of involving patients in their own care?",
+    "completion": "To improve adherence, enhance patient satisfaction, and improve overall treatment outcomes."
+  },
+  {
+    "prompt": "What are the key components of initial evaluation for patients starting ART?",
+    "completion": "Detailed history, physical examination, HIV confirmation test, CD4 count, full blood count, serum creatinine, liver function tests, blood pressure, syphilis test, hepatitis B and C screening."
+  },
+  {
+    "prompt": "What is the importance of adherence counseling in ART?",
+    "completion": "To ensure treatment effectiveness by improving medication adherence."
+  },
+  {
+    "prompt": "What are the different types of clinic visits for patients on ART?",
+    "completion": "Clinical visits, refill visits, unscheduled visits, and virtual/telephone visits."
+  },
+  {
+    "prompt": "What are some common side effects of ART?",
+    "completion": "Weight gain, dyslipidemia, hepatotoxicity, hypersensitivity reactions, insomnia, anemia, and neurotoxicity."
+  },
+  {
+    "prompt": "How can weight gain associated with ART be managed?",
+    "completion": "Promoting healthy lifestyle changes, such as diet and exercise."
+  },
+  {
+    "prompt": "What are some important drug interactions with DTG?",
+    "completion": "Rifampicin, metformin, and some antacids."
+  },
+  {
+    "prompt": "What are some important drug interactions with EFV?",
+    "completion": "Carbamazepine, phenobarbital, phenytoin, and some hormonal contraceptives."
+  },
+  {
+    "prompt": "What is Immune Reconstitution Inflammatory Syndrome (IRIS)?",
+    "completion": "A condition where the immune system overreacts to infections that were present before starting ART."
+  },
+  {
+    "prompt": "How is IRIS managed?",
+    "completion": "Continue ART and treat the underlying infection."
+  },
+  {
+    "prompt": "What is the gold standard for monitoring the effectiveness of ART?",
+    "completion": "Viral load testing."
+  },
+  {
+    "prompt": "What are the criteria for virological failure?",
+    "completion": "Two consecutive viral load measurements greater than 1000 copies/ml after 3 months with enhanced adherence counseling."
+  },
+  {
+    "prompt": "What are some key considerations for managing HIV in older adults?",
+    "completion": "Increased risk of drug interactions, higher prevalence of comorbidities, and increased risk of mental health issues."
+  },
+  {
+    "prompt": "What are the potential consequences of untreated side effects of ART?",
+    "completion": "Treatment interruption, adherence challenges, and treatment failure."
+  },
+  {
+    "prompt": "Why is it important to monitor patients for adherence to ART?",
+    "completion": "To ensure treatment effectiveness and identify potential barriers to adherence."
+  },
+  {
+    "prompt": "How can adherence to ART be improved?",
+    "completion": "Through effective counseling, patient education, and addressing social and economic barriers."
+  },
+  {
+    "prompt": "What are the potential consequences of treatment failure?",
+    "completion": "Viral load rebound, disease progression, and increased risk of drug resistance."
+  },
+  {
+    "prompt": "What is the role of the healthcare provider in managing side effects of ART?",
+    "completion": "To monitor for side effects, provide appropriate counseling and support, and adjust the treatment regimen as needed."
+  },
+  {
+    "prompt": "How can the risk of drug interactions be minimized?",
+    "completion": "Through careful medication reconciliation and regular review of all medications being taken by the patient."
+  },
+  {
+    "prompt": "What are the implications of polypharmacy in older adults living with HIV?",
+    "completion": "Increased risk of drug interactions and adverse events."
+  },
+  {
+    "prompt": "What are some of the key considerations for managing mental health in people living with HIV?",
+    "completion": "Screening for depression and anxiety, providing appropriate counseling and support, and ensuring access to mental health services."
+  },
+  {
+    "prompt": "What are the potential benefits of early initiation of ART?",
+    "completion": "Reduced risk of disease progression, improved immune function, and reduced risk of transmission."
+  },
+  {
+    "prompt": "What is the importance of regular clinical assessments in patients on ART?",
+    "completion": "To monitor for clinical signs and symptoms of HIV disease and assess the overall health status of the patient."
+  },
+  {
+    "prompt": "What are the potential consequences of poor adherence to ART?",
+    "completion": "Viral load suppression failure, increased risk of drug resistance, and disease progression."
+  },
+  {
+    "prompt": "What are the potential long-term effects of HIV infection on the body?",
+    "completion": "Cardiovascular disease, kidney disease, neurological disorders, and metabolic disorders."
+  },
+  {
+    "prompt": "What is the role of patient education in the management of HIV?",
+    "completion": "To empower patients to make informed decisions about their treatment and manage their health effectively."
+  },
+  {
+    "prompt": "How can the quality of life for people living with HIV be improved?",
+    "completion": "Through effective ART, management of comorbidities, and provision of psychosocial support."
+  },
+  {
+    "prompt": "What are the implications of stigma and discrimination on the management of HIV?",
+    "completion": "Barriers to accessing healthcare, poor adherence to treatment, and negative mental health outcomes."
+  },
+  {
+    "prompt": "What is the importance of involving patients in their own care?",
+    "completion": "To improve adherence, enhance patient satisfaction, and improve overall treatment outcomes."
+  },
+  {
+    "prompt": "What are the key components of comprehensive HIV care?",
+    "completion": "Combination HIV prevention, the promotion of general health and well-being, maintaining quality of life, screening, and the prevention and management of co-infections and comorbidities."
+  },
+  {
+    "prompt": "What are the criteria for initiating cotrimoxazole prophylaxis in adults and adolescents living with HIV?",
+    "completion": "WHO clinical stage 2, 3, and 4, or CD4 cell count < 350 cells/mm3."
+  },
+  {
+    "prompt": "What are the key strategies for intensified TB case finding in people living with HIV?",
+    "completion": "Routine screening for TB symptoms at every encounter, use of diagnostic tests like Xpert MTB/RIF and LF-LAM, and investigation of presumptive TB cases."
+  },
+  {
+    "prompt": "What are the recommended regimens for TB preventive therapy (TPT) in people living with HIV?",
+    "completion": "Three months of weekly rifapentine and isoniazid (3HP) or six months of daily isoniazid (6H)."
+  },
+  {
+    "prompt": "When should ART be initiated in people living with HIV who have been diagnosed with TB?",
+    "completion": "After a minimum of 2 weeks of TB treatment."
+  },
+  {
+    "prompt": "What are the key features of the management of cryptococcal meningitis in people living with HIV?",
+    "completion": "Induction therapy with amphotericin B and flucytosine, consolidation therapy with fluconazole, and maintenance therapy with fluconazole."
+  },
+  {
+    "prompt": "When should ART be initiated in people living with HIV who have cryptococcal meningitis?",
+    "completion": "Defer ART for 4-6 weeks from the initiation of antifungal treatment."
+  },
+  {
+    "prompt": "What are the key considerations for managing HIV and hepatitis B co-infection?",
+    "completion": "Prioritizing ART, especially in those with severe liver disease, and using treatment regimens that include a TDF/3TC backbone."
+  },
+  {
+    "prompt": "Why is mental health screening important in people living with HIV?",
+    "completion": "To identify and address mental health conditions like depression and anxiety, which can impact adherence to ART and overall health."
+  },
+  {
+    "prompt": "What are some key strategies for preventing cardiovascular disease in people living with HIV?",
+    "completion": "Addressing modifiable risk factors such as high blood pressure, smoking, obesity, unhealthy diet, and lack of physical activity."
+  },
+  {
+    "prompt": "Why are women living with HIV at higher risk of cervical cancer?",
+    "completion": "Increased risk of acquiring HPV infection, lower chances of regression of pre-cancer lesions, and more rapid progression to cancer."
+  },
+  {
+    "prompt": "What are the key strategies for preventing cervical cancer in women living with HIV?",
+    "completion": "HPV vaccination, regular screening with HPV DNA testing or VIA, and treatment of precancerous lesions."
+  },
+  {
+    "prompt": "What are the dietary recommendations for people living with HIV?",
+    "completion": "A balanced diet that includes a variety of fruits, vegetables, grains, and protein sources."
+  },
+  {
+    "prompt": "What is the importance of nutrition in people living with HIV?",
+    "completion": "To support the immune system, optimize the benefit of ART, and improve overall health and well-being."
+  },
+  {
+    "prompt": "What are the potential consequences of untreated mental health conditions in people living with HIV?",
+    "completion": "Poor adherence to ART, increased risk of substance abuse, and decreased quality of life."
+  },
+  {
+    "prompt": "What are the implications of stigma and discrimination for people living with HIV?",
+    "completion": "Barriers to accessing healthcare, poor adherence to treatment, and negative mental health outcomes."
+  },
+  {
+    "prompt": "What is the role of community-based services in supporting people living with HIV?",
+    "completion": "Providing access to mental health services, nutritional support, and social support programs."
+  },
+  {
+    "prompt": "What are the key considerations for managing comorbidities in people living with HIV?",
+    "completion": "Early detection, appropriate management, and integration of services for HIV and other conditions."
+  },
+  {
+    "prompt": "What is the importance of involving patients in their own care decisions?",
+    "completion": "To improve adherence, enhance patient satisfaction, and improve overall treatment outcomes."
+  },
+  {
+    "prompt": "What are the key components of comprehensive HIV care?",
+    "completion": "Combination HIV prevention, the promotion of general health and well-being, maintaining quality of life, screening, and the prevention and management of co-infections and comorbidities."
+  },
+  {
+    "prompt": "What are the criteria for initiating cotrimoxazole prophylaxis in adults and adolescents living with HIV?",
+    "completion": "WHO clinical stage 2, 3, and 4, or CD4 cell count < 350 cells/mm3."
+  },
+  {
+    "prompt": "What are the key strategies for intensified TB case finding in people living with HIV?",
+    "completion": "Routine screening for TB symptoms at every encounter, use of diagnostic tests like Xpert MTB/RIF and LF-LAM, and investigation of presumptive TB cases."
+  },
+  {
+    "prompt": "What are the recommended regimens for TB preventive therapy (TPT) in people living with HIV?",
+    "completion": "Three months of weekly rifapentine and isoniazid (3HP) or six months of daily isoniazid (6H)."
+  },
+  {
+    "prompt": "When should ART be initiated in people living with HIV who have been diagnosed with TB?",
+    "completion": "After a minimum of 2 weeks of TB treatment."
+  },
+  {
+    "prompt": "What are the key features of the management of cryptococcal meningitis in people living with HIV?",
+    "completion": "Induction therapy with amphotericin B and flucytosine, consolidation therapy with fluconazole, and maintenance therapy with fluconazole."
+  },
+  {
+    "prompt": "When should ART be initiated in people living with HIV who have cryptococcal meningitis?",
+    "completion": "Defer ART for 4-6 weeks from the initiation of antifungal treatment."
+  },
+  {
+    "prompt": "What are the key considerations for managing HIV and hepatitis B co-infection?",
+    "completion": "Prioritizing ART, especially in those with severe liver disease, and using treatment regimens that include a TDF/3TC backbone."
+  },
+  {
+    "prompt": "Why is mental health screening important in people living with HIV?",
+    "completion": "To identify and address mental health conditions like depression and anxiety, which can impact adherence to ART and overall health."
+  },
+  {
+    "prompt": "What are some key strategies for preventing cardiovascular disease in people living with HIV?",
+    "completion": "Addressing modifiable risk factors such as high blood pressure, smoking, obesity, unhealthy diet, and lack of physical activity."
+  },
+  {
+    "prompt": "Why are women living with HIV at higher risk of cervical cancer?",
+    "completion": "Increased risk of acquiring HPV infection, lower chances of regression of pre-cancer lesions, and more rapid progression to cancer."
+  },
+  {
+    "prompt": "What are the key strategies for preventing cervical cancer in women living with HIV?",
+    "completion": "HPV vaccination, regular screening with HPV DNA testing or VIA, and treatment of precancerous lesions."
+  },
+  {
+    "prompt": "What are the dietary recommendations for people living with HIV?",
+    "completion": "A balanced diet that includes a variety of fruits, vegetables, grains, and protein sources."
+  },
+  {
+    "prompt": "What is the importance of nutrition in people living with HIV?",
+    "completion": "To support the immune system, optimize the benefit of ART, and improve overall health and well-being."
+  },
+  {
+    "prompt": "What are the potential consequences of untreated mental health conditions in people living with HIV?",
+    "completion": "Poor adherence to ART, increased risk of substance abuse, and decreased quality of life."
+  },
+  {
+    "prompt": "What are the implications of stigma and discrimination on the management of HIV?",
+    "completion": "Barriers to accessing healthcare, poor adherence to treatment, and negative mental health outcomes."
+  },
+  {
+    "prompt": "What is the role of community-based services in supporting people living with HIV?",
+    "completion": "Providing access to mental health services, nutritional support, and social support programs."
+  },
+  {
+    "prompt": "What are the key considerations for managing comorbidities in people living with HIV?",
+    "completion": "Early detection, appropriate management, and integration of services for HIV and other conditions."
+  },
+  {
+    "prompt": "What is the importance of involving patients in their own care decisions?",
+    "completion": "To improve adherence, enhance patient satisfaction, and improve overall treatment outcomes."
+  },
+  {
+    "prompt": "What are the potential challenges in managing co-infections and comorbidities in people living with HIV?",
+    "completion": "Limited access to diagnostic and treatment services, lack of trained healthcare providers, and inadequate resources."
+  },
+  {
+    "prompt": "What is the role of patient education and counseling in managing co-infections and comorbidities?",
+    "completion": "To empower patients to make informed decisions about their health and to adhere to treatment recommendations."
+  },
+  {
+    "prompt": "How can the quality of life for people living with HIV be improved through the management of co-infections and comorbidities?",
+    "completion": "By reducing morbidity and mortality, improving overall health and well-being, and enhancing quality of life."
+  },
+  {
+    "prompt": "What is the importance of intersectoral collaboration in addressing the challenges of managing co-infections and comorbidities in people living with HIV?",
+    "completion": "To ensure effective and coordinated care, improve access to services, and address the social determinants of health."
+  },
+  {
+    "prompt": "What are the potential long-term effects of untreated co-infections and comorbidities in people living with HIV?",
+    "completion": "Increased risk of disease progression, disability, and mortality."
+  },
+  {
+    "prompt": "What are the key components of comprehensive HIV care?",
+    "completion": "Combination HIV prevention, the promotion of general health and well-being, maintaining quality of life, screening, and the prevention and management of co-infections and comorbidities."
+  },
+  {
+    "prompt": "What are the criteria for initiating cotrimoxazole prophylaxis in adults and adolescents living with HIV?",
+    "completion": "WHO clinical stage 2, 3, and 4, or CD4 cell count < 350 cells/mm3."
+  },
+  {
+    "prompt": "What are the key strategies for intensified TB case finding in people living with HIV?",
+    "completion": "Routine screening for TB symptoms at every encounter, use of diagnostic tests like Xpert MTB/RIF and LF-LAM, and investigation of presumptive TB cases."
+  },
+  {
+    "prompt": "What are the recommended regimens for TB preventive therapy (TPT) in people living with HIV?",
+    "completion": "Three months of weekly rifapentine and isoniazid (3HP) or six months of daily isoniazid (6H)."
+  },
+  {
+    "prompt": "When should ART be initiated in people living with HIV who have been diagnosed with TB?",
+    "completion": "After a minimum of 2 weeks of TB treatment."
+  },
+  {
+    "prompt": "What are the key features of the management of cryptococcal meningitis in people living with HIV?",
+    "completion": "Induction therapy with amphotericin B and flucytosine, consolidation therapy with fluconazole, and maintenance therapy with fluconazole."
+  },
+  {
+    "prompt": "When should ART be initiated in people living with HIV who have cryptococcal meningitis?",
+    "completion": "Defer ART for 4-6 weeks from the initiation of antifungal treatment."
+  },
+  {
+    "prompt": "What are the key considerations for managing HIV and hepatitis B co-infection?",
+    "completion": "Prioritizing ART, especially in those with severe liver disease, and using treatment regimens that include a TDF/3TC backbone."
+  },
+  {
+    "prompt": "Why is mental health screening important in people living with HIV?",
+    "completion": "To identify and address mental health conditions like depression and anxiety, which can impact adherence to ART and overall health."
+  },
+  {
+    "prompt": "What are some key strategies for preventing cardiovascular disease in people living with HIV?",
+    "completion": "Addressing modifiable risk factors such as high blood pressure, smoking, obesity, unhealthy diet, and lack of physical activity."
+  },
+  {
+    "prompt": "Why are women living with HIV at higher risk of cervical cancer?",
+    "completion": "Increased risk of acquiring HPV infection, lower chances of regression of pre-cancer lesions, and more rapid progression to cancer."
+  },
+  {
+    "prompt": "What are the key strategies for preventing cervical cancer in women living with HIV?",
+    "completion": "HPV vaccination, regular screening with HPV DNA testing or VIA, and treatment of precancerous lesions."
+  },
+  {
+    "prompt": "What are the dietary recommendations for people living with HIV?",
+    "completion": "A balanced diet that includes a variety of fruits, vegetables, grains, and protein sources."
+  },
+  {
+    "prompt": "What is the importance of nutrition in people living with HIV?",
+    "completion": "To support the immune system, optimize the benefit of ART, and improve overall health and well-being."
+  },
+  {
+    "prompt": "What are the potential consequences of untreated mental health conditions in people living with HIV?",
+    "completion": "Poor adherence to ART, increased risk of substance abuse, and decreased quality of life."
+  },
+  {
+    "prompt": "What are the implications of stigma and discrimination on the management of HIV?",
+    "completion": "Barriers to accessing healthcare, poor adherence to treatment, and negative mental health outcomes."
+  },
+  {
+    "prompt": "What is the role of community-based services in supporting people living with HIV?",
+    "completion": "Providing access to mental health services, nutritional support, and social support programs."
+  },
+  {
+    "prompt": "What are the key considerations for managing comorbidities in people living with HIV?",
+    "completion": "Early detection, appropriate management, and integration of services for HIV and other conditions."
+  },
+  {
+    "prompt": "What is the importance of involving patients in their own care decisions?",
+    "completion": "To improve adherence, enhance patient satisfaction, and improve overall treatment outcomes."
+  },
+  {
+    "prompt": "What are the potential challenges in managing co-infections and comorbidities in people living with HIV?",
+    "completion": "Limited access to diagnostic and treatment services, lack of trained healthcare providers, and inadequate resources."
+  },
+  {
+    "prompt": "What is the role of patient education and counseling in managing co-infections and comorbidities?",
+    "completion": "To empower patients to make informed decisions about their health and to adhere to treatment recommendations."
+  },
+  {
+    "prompt": "How can the quality of life for people living with HIV be improved through the management of co-infections and comorbidities?",
+    "completion": "By reducing morbidity and mortality, improving overall health and well-being, and enhancing quality of life."
+  },
+  {
+    "prompt": "What is the importance of intersectoral collaboration in addressing the challenges of managing co-infections and comorbidities in people living with HIV?",
+    "completion": "To ensure effective and coordinated care, improve access to services, and address the social determinants of health."
+  },
+  {
+    "prompt": "What are the potential long-term effects of untreated co-infections and comorbidities in people living with HIV?",
+    "completion": "Increased risk of disease progression, disability, and mortality."
+  },
+  {
+    "prompt": "Why is it important to screen for Hepatitis B and C in people living with HIV?",
+    "completion": "Because co-infection can lead to more severe liver disease and increase the risk of liver-related complications."
+  },
+  {
+    "prompt": "What factors contribute to the increased risk of mental health disorders in people living with HIV?",
+    "completion": "The social and psychological impact of living with a chronic illness, possible side effects of medications, and the experience of stigma and discrimination."
+  },
+  {
+    "prompt": "How often should people living with HIV be screened for mental health disorders?",
+    "completion": "At least annually, with more frequent screening for those with risk factors such as unsuppressed viral load or substance abuse."
+  },
+  {
+    "prompt": "What are some of the non-communicable diseases that people living with HIV are at increased risk of developing?",
+    "completion": "Cardiovascular disease, hypertension, diabetes, chronic obstructive pulmonary disease, kidney disease, and cancer."
+  },
+  {
+    "prompt": "What are the different types of treatment available for precancerous cervical lesions in women living with HIV?",
+    "completion": "Cryotherapy, thermal ablation, and loop electrosurgical excision procedure (LEEP)."
+  },
+  {
+    "prompt": "What are some of the challenges in providing nutritional support to people living with HIV?",
+    "completion": "Food insecurity, poverty, lack of access to nutritious foods, and cultural beliefs about food and nutrition."
+  },
+  {
+    "prompt": "What is the definition of Advanced HIV Disease (AHD)?",
+    "completion": "WHO clinical stage 3 or 4 or a CD4 cell count equal or less than 200 cells/mm3 for people living with HIV aged five years or older. All children younger than five years are considered to have AHD."
+  },
+  {
+    "prompt": "Why are all children younger than five years considered to have AHD?",
+    "completion": "Because most children younger than five years usually present for care with advanced immunosuppression and have an increased risk of disease progression and mortality."
+  },
+  {
+    "prompt": "What is the best indicator of disease stage and immediate risk of death in people living with HIV?",
+    "completion": "CD4 cell count."
+  },
+  {
+    "prompt": "What are the key components of the package of care for people with AHD?",
+    "completion": "Screening, treatment, and/or prophylaxis for major opportunistic infections; rapid ART initiation; and intensified adherence support interventions."
+  },
+  {
+    "prompt": "What is the STOP AIDS strategy?",
+    "completion": "A framework for managing AHD that includes screening, treating, optimizing ART, and preventing opportunistic infections."
+  },
+  {
+    "prompt": "What are the key screenings recommended for people with AHD?",
+    "completion": "Screening for tuberculosis, cryptococcal infection, and malnutrition."
+  },
+  {
+    "prompt": "What are the key treatments recommended for people with AHD?",
+    "completion": "Treatment for tuberculosis, severe pneumonia, severe bacterial infections, cryptococcal meningitis, and severe acute malnutrition."
+  },
+  {
+    "prompt": "What are the key preventive measures recommended for people with AHD?",
+    "completion": "Co-trimoxazole prophylaxis, TB preventive treatment, and pre-emptive fluconazole therapy for cryptococcal meningitis."
+  },
+  {
+    "prompt": "What are the recommended vaccinations for people with AHD?",
+    "completion": "Pneumococcal vaccine, human papillomavirus vaccine, measles vaccine, and BCG vaccine."
+  },
+  {
+    "prompt": "When should ART be initiated in people with AHD?",
+    "completion": "As soon as possible after diagnosis, typically within 7 days."
+  },
+  {
+    "prompt": "What is the importance of adherence support for people with AHD?",
+    "completion": "To ensure optimal treatment outcomes and reduce the risk of treatment failure."
+  },
+  {
+    "prompt": "What is the role of the LF-LAM assay in the management of AHD?",
+    "completion": "To assist in the diagnosis of tuberculosis in people with advanced HIV disease."
+  },
+  {
+    "prompt": "When is cryptococcal antigen screening recommended in people living with HIV?",
+    "completion": "In all PLHIV with CD4<200 cells/mm3."
+  },
+  {
+    "prompt": "What is the significance of early identification and treatment of opportunistic infections in people with AHD?",
+    "completion": "To reduce morbidity and mortality and improve overall health outcomes."
+  },
+  {
+    "prompt": "What are the potential challenges in managing AHD?",
+    "completion": "Limited access to diagnostic tests, inadequate resources, and lack of trained healthcare providers."
+  },
+  {
+    "prompt": "What is the importance of ongoing monitoring and evaluation of AHD care programs?",
+    "completion": "To identify areas for improvement, track progress towards achieving treatment goals, and ensure the effectiveness of interventions."
+  },
+  {
+    "prompt": "What is Advanced HIV Disease (AHD)?",
+    "completion": "Advanced HIV Disease (AHD) is defined as WHO clinical stage 3 or 4 or a CD4 cell count equal or less than 200 cells/mm^3 for people living with HIV aged five years or older."
+  },
+  {
+    "prompt": "Why are children under five years considered to have advanced HIV disease?",
+    "completion": "All children younger than five years are considered to have advanced HIV disease based on the rationale that most children younger than five years usually present for care with advanced immunosuppression."
+  },
+  {
+    "prompt": "What is the rationale behind considering all children under five as having advanced HIV disease?",
+    "completion": "Children under five have an increased risk of disease progression and mortality regardless of clinical and immune condition."
+  },
+  {
+    "prompt": "How do age-dependent CD4 count definitions affect the implementation of advanced immunosuppression criteria?",
+    "completion": "Varying age-dependent CD4 count definitions make it difficult to implement definitions based on CD4 count in programmatic settings."
+  },
+  {
+    "prompt": "Who should not be considered to have advanced disease despite receiving antiretroviral therapy?",
+    "completion": "Children, adolescents, and adults who had previously initiated antiretroviral therapy and are clinically stable after more than one year of treatment should not be considered to have advanced disease."
+  },
+  {
+    "prompt": "What should be done for individuals re-engaging with care after more than 90 days of ART interruption?",
+    "completion": "They should be assessed for AHD and offered the AHD package as appropriate."
+  },
+  {
+    "prompt": "What reflexive screening tests should be performed for PLHIV diagnosed with AHD?",
+    "completion": "PLHIV diagnosed with AHD should reflexively be screened for TB and Cryptococcal Meningitis using TB LAM and Gene Xpert and CrAg respectively."
+  },
+  {
+    "prompt": "For which populations should reflexive screening for TB and Cryptococcal Meningitis be performed?",
+    "completion": "This applies to PLHIV diagnosed with AHD based on CD4 count and/or WHO clinical staging."
+  },
+  {
+    "prompt": "What is the definition of Advanced HIV Disease (AHD) for adults, adolescents, and children older than five years?",
+    "completion": "It is defined as CD4 cell count <200 cells/mm^3 or WHO stage 3 or 4 event."
+  },
+  {
+    "prompt": "What is the diagnostic recommendation if access to CD4 count is limited or unavailable?",
+    "completion": "If access to CD4 count is limited or unavailable, WHO staging should be used."
+  },
+  {
+    "prompt": "What is the purpose of the diagnostic recommendations for managing patients with AHD?",
+    "completion": "To identify people with advanced HIV disease."
+  },
+  {
+    "prompt": "What interventions are included in the package of care for people with AHD?",
+    "completion": "Screening, treatment, and/or prophylaxis for major opportunistic infections, rapid ART initiation, and intensified adherence support interventions."
+  },
+  {
+    "prompt": "What is the main goal of the interventions known to reduce morbidity and mortality among PLHIV?",
+    "completion": "The main interventions known to reduce morbidity and mortality among PLHIV can be summarized as Screen, Treat, Optimize and Prevent AIDS (STOP AIDS)."
+  },
+  {
+    "prompt": "What is the recommended timeframe for initiating rapid antiretroviral therapy?",
+    "completion": "Rapid ART initiation should start within 7 days with optimal regimens."
+  },
+  {
+    "prompt": "When should antiretroviral therapy counselling be provided?",
+    "completion": "Antiretroviral therapy counselling should be provided during the optimization phase."
+  },
+  {
+    "prompt": "What is the recommended approach for patients with cryptococcal meningitis?",
+    "completion": "Treatment should be deferred for 4 \u2013 6 weeks of antifungal treatment initiation."
+  },
+  {
+    "prompt": "What is combination HIV prevention?",
+    "completion": "Combination prevention programmes use a mix of evidence-based biomedical, behavioural, and structural interventions designed to meet the current HIV prevention needs of individuals and communities to reduce new HIV infections. They include interventions like condoms, voluntary medical male circumcision (VMMC), pre-exposure prophylaxis (PrEP), post exposure prophylaxis (PEP), and treatment as prevention (TaSP)."
+  },
+  {
+    "prompt": "How effective are male condoms in preventing HIV transmission?",
+    "completion": "Male condoms reduce HIV transmission by at least 80% during vaginal sex and offer 64% reduction in transmission during anal sex in men who have sex with men if used correctly and consistently."
+  },
+  {
+    "prompt": "What is the effectiveness of Voluntary Medical Male Circumcision (VMMC) in HIV prevention?",
+    "completion": "VMMC reduces risk of HIV acquisition by up to 60%. It also reduces the risk of some other sexually transmitted infections among women and men, including human papillomavirus, which causes cervical and penile cancer."
+  },
+  {
+    "prompt": "What is PrEP and what are the recommended regimens for daily oral PrEP?",
+    "completion": "PrEP is the use of ARV drugs by HIV-negative individuals at substantial risk of getting HIV to reduce infection risk. The preferred regimen is TDF (300mg) plus FTC (200mg) as a fixed dose combination taken once daily. The alternative regimen is TDF (300mg) plus 3TC (300mg) taken once daily."
+  },
+  {
+    "prompt": "What are the key indications for daily oral PrEP?",
+    "completion": "Key indications include: being HIV negative with an HIV-positive partner not on effective therapy for 6 months, having unprotected sex, having partners of unknown HIV status, having partners with HIV risk factors, history of STIs, previous use of PEP, or anyone requesting PrEP."
+  },
+  {
+    "prompt": "What are the contraindications for daily oral PrEP?",
+    "completion": "Contraindications include: HIV positive status, unknown HIV status, suspected acute HIV infection, allergy to TDF and/or FTC, unwillingness/inability to adhere to daily PrEP, known renal impairment, and estimated creatinine clearance <60 ml/min."
+  },
+  {
+    "prompt": "What is the recommended ARV regimen for HIV Post-Exposure Prophylaxis (PEP) in adults and adolescents?",
+    "completion": "The recommended PEP regimen for adults and adolescents is Tenofovir (TDF) 300 mg plus Lamivudine (3TC) 300 mg plus Dolutegravir (DTG) 50 mg once daily for a month."
+  },
+  {
+    "prompt": "What is Treatment as Prevention (TasP) and how does it work?",
+    "completion": "TasP refers to HIV prevention methods using antiretroviral treatment to decrease HIV transmission risk. When adhered to consistently, ART can reduce HIV viral load to undetectable levels in blood and bodily fluids, preventing transmission to others when viral suppression is maintained."
+  },
+  {
+    "prompt": "What are the proven HIV prevention strategies available in Zimbabwe?",
+    "completion": "The proven strategies include: abstinence or delayed sexual debut among youth, mutual faithfulness to an uninfected partner, correct and consistent use of male and female condoms, TAsP - effective treatment of HIV positive people, voluntary medical male circumcision, pre-exposure prophylaxis, post exposure prophylaxis, and economic empowerment of adolescents and young adults to reduce risky sexual behaviors."
+  },
+  {
+    "prompt": "What is Event-Driven Pre-Exposure Prophylaxis (ED-PrEP) and who is it recommended for?",
+    "completion": "ED-PrEP, also called on-demand PrEP, is effective for men who have sex with men (MSM). It is only approved for individuals assigned male at birth not exposed to exogenous hormones such as gender-affirming hormone therapy. It involves taking PrEP for a period as short as three days, timed to correspond with anticipated sex."
+  },
+  {
+    "prompt": "How should ED-PrEP be administered?",
+    "completion": "ED-PrEP starts with a loading dose of two pills taken 2\u201324 hours before having sex. Continue taking one pill at the same time as the loading dose daily until two days after the last potential exposure. This process should be repeated for each period of potential exposure to HIV."
+  },
+  {
+    "prompt": "What is the Dapivirine Vaginal Ring (DVR) and how does it work?",
+    "completion": "The dapivirine vaginal ring is a woman-initiated HIV prevention option. It is a flexible silicone device containing dapivirine, which is slowly released over 28 days into the vagina. The ring acts locally with low systemic absorption and should be continuously worn for one month, including during menses, before being replaced."
+  },
+  {
+    "prompt": "What populations should be specifically considered for PrEP?",
+    "completion": "Key populations for PrEP include: sex workers, sero-discordant couples (the HIV sero-negative partner), adolescent girls and young women, pregnant and breast-feeding women, high-risk men (MSM, prisoners, long distance truck drivers), and transgender people."
+  },
+  {
+    "prompt": "When should PrEP be discontinued?",
+    "completion": "PrEP should be discontinued: 28 days after the last possible exposure if no longer at substantial risk, if client develops renal disease (Creatinine Clearance <60ml/Min), has a severe adverse medicine reaction, or in sero-discordant couples when HIV infected partner on ART has a suppressed viral load."
+  },
+  {
+    "prompt": "What body fluids pose a significant risk for HIV transmission in the context of PEP?",
+    "completion": "Significant risk body fluids include: blood, blood-stained saliva, breast milk, genital secretions (vaginal secretions and semen), cerebrospinal, amniotic, peritoneal, synovial, pericardial, or pleural fluids. All cases should be assessed clinically for significant risk."
+  },
+  {
+    "prompt": "What is the recommended PEP regimen for children younger than 10 years?",
+    "completion": "For children under 10, AZT + 3TC is the preferred backbone regimen, with ABC + 3TC or TDF + 3TC (or FTC) as alternatives. DTG is recommended as the preferred third medicine. Age-appropriate alternatives for the third medicine include ATV/r, RAL, DRV, or EFV."
+  },
+  {
+    "prompt": "How should renal function be monitored in individuals aged 30-49 years receiving oral PrEP?",
+    "completion": "For individuals 30-49 years with no kidney-related comorbidities, conduct screening once within one to three months of oral PrEP initiation. If baseline test is normal, further screening is optional until 50 years of age or if kidney-related comorbidities develop. If baseline test result is <90 mL/min, conduct follow-up screening every six to 12 months."
+  },
+  {
+    "prompt": "What is Cabotegravir (CAB-LA) and how is it administered for PrEP?",
+    "completion": "Cabotegravir is a long-acting HIV-1 integrase strand transfer inhibitor, an analog of dolutegravir, approved for PrEP. The long-acting formulation is administered as an eight-weekly intramuscular injection. Zimbabwe will adapt CAB-LA once it has been prequalified by WHO."
+  },
+  {
+    "prompt": "What is an Adverse Drug Reaction (ADR)?",
+    "completion": "An Adverse Drug Reaction is a response to a medicine which is noxious and unintended, occurring at doses normally used in humans for prophylaxis, diagnosis, therapy of disease, or modification of physiological function."
+  },
+  {
+    "prompt": "How is an Adverse Event different from an ADR?",
+    "completion": "An Adverse Event is any untoward medical occurrence during treatment with a pharmaceutical product that doesn't necessarily have a causal relationship with the treatment. Treatment failure is also considered an adverse event."
+  },
+  {
+    "prompt": "Who is responsible for coordinating pharmacovigilance activities in Zimbabwe?",
+    "completion": "Pharmacovigilance activities are coordinated by the Medicines Control Authority of Zimbabwe (MCAZ) as the National Pharmacovigilance Centre, in collaboration with the Ministry of Health and Child Care (MoHCC) public health programs and the Directorate Pharmacy Services (DPS-MoHCC) and all key stakeholders in both public and private health sectors."
+  },
+  {
+    "prompt": "Who should report ADRs?",
+    "completion": "ADRs should be reported by all health professionals (in public or private sector) including physicians, pharmacists, nurses, public health professionals, laboratory staff, pathology departments, pharmaceutical companies, patients or patient's family members, general public, and literate health and community workers."
+  },
+  {
+    "prompt": "What are the methods available for submitting ADR reports?",
+    "completion": "ADR reports can be submitted through: 1) MCAZ Electronic Pharmacovigilance (e-PV) system online at https://e-pv.mcaz.co.zw, 2) Mobile and desktop applications with offline functionality, 3) Standard Spontaneous ADR reporting form submitted to MCAZ premises or via email to mcaz@mcaz.co.zw."
+  },
+  {
+    "prompt": "What types of ADRs should be reported to MCAZ?",
+    "completion": "Reports should include: all ADRs to marketed medicines or Essential Medicines List items, all serious reactions and interactions, known and unknown ADRs, unusual reactions, reactions to traditional/herbal remedies, suspected contamination, questionable stability, defective components, poor packaging or labeling, and therapeutic failures."
+  },
+  {
+    "prompt": "What are the steps for reporting a suspected ADR?",
+    "completion": "The steps include: 1) Obtain patient history and conduct full examination, 2) Check the known pharmacology of the medicine, 3) Manage the ADRs including consideration of dechallenge and rechallenge. Each step involves detailed assessment and documentation of findings."
+  },
+  {
+    "prompt": "What are dechallenge and rechallenge in ADR management?",
+    "completion": "Dechallenge refers to stopping a drug after an adverse event, with positive dechallenge meaning the adverse events disappear after stopping. Rechallenge refers to restarting the same medicine after stopping, with positive rechallenge meaning the adverse events recur after restarting. Rechallenge is only justified when benefits outweigh risks."
+  },
+  {
+    "prompt": "What are the key components of a complete ADR case report?",
+    "completion": "A complete case report includes: description of adverse events with onset timing, product therapy details, patient characteristics, diagnosis documentation, clinical course and outcomes, therapeutic measures and lab data, response to dechallenge/rechallenge, and any other relevant information."
+  },
+  {
+    "prompt": "How can healthcare workers minimize the occurrence of ADRs?",
+    "completion": "ADRs can be minimized by: using few medicines when possible, using familiar medicines, avoiding unnecessary therapy changes, using reference materials, careful monitoring of high-risk medicines, being aware of drug-food interactions, reviewing all patient medicines regularly, and taking extra care with vulnerable populations like children, elderly, and pregnant women."
+  },
+  {
+    "prompt": "What are the benefits of reporting ADRs for healthcare workers and patients?",
+    "completion": "Benefits include: improved patient confidence in professional practice, improved quality of care, reduced medicine-related problems leading to better treatment outcomes, satisfaction in fulfilling moral and professional obligations, and improvement in healthcare worker knowledge."
+  },
+  {
+    "prompt": "What is the first step in examining a patient with a suspected ADR and what does it involve?",
+    "completion": "The first step is to obtain patient history and conduct a full examination. This includes taking a comprehensive medicine and medical history, conducting physical examination (as some medicines produce distinctive physical signs), establishing time relationships from therapy start to reaction onset, and determining other possible causes for symptoms including underlying disease, other medicines, or toxins."
+  },
+  {
+    "prompt": "What should healthcare workers consider when checking the pharmacology of a medicine suspected of causing an ADR?",
+    "completion": "They should check if the reaction is known to occur with the particular medicine as stated in the package insert or other reference. However, it's important to note that if the reaction is not documented in the package insert, it doesn't mean that the reaction cannot occur with that particular medicine."
+  },
+  {
+    "prompt": "How should follow-up of ADR reports be handled?",
+    "completion": "All reports of serious events should be followed up if details are incomplete, potentially requiring trained health professionals in clinical settings. Follow-up requests should be minimal to avoid discouraging reporting. Follow-up information might include essential missing details, outcome information, rechallenge results, laboratory tests, and post-mortem results where applicable."
+  },
+  {
+    "prompt": "What protections are in place for health workers who report ADRs?",
+    "completion": "ADR reports do not constitute an admission that a health professional contributed to the event. Reporter details, health professionals named, and patient information are removed before sharing. Information is not used for commercial purposes but for improving ADR detection, case management, causality assessment, and patient safety."
+  },
+  {
+    "prompt": "What feedback can reporters expect after submitting an ADR report?",
+    "completion": "The pharmacovigilance centre (MCAZ) provides feedback to all ADR reporters. Additional feedback information is provided after causality assessment by the MCAZ PVCT Committee."
+  },
+  {
+    "prompt": "What special considerations should be taken when prescribing medicines to prevent ADRs?",
+    "completion": "Extra care should be taken when prescribing to children, the elderly, pregnant and nursing women, the seriously ill, and patients with hepatic and renal diseases. Careful ongoing monitoring is essential in these patients. Additionally, extra caution is needed with medicines known to have many interactions and adverse reactions like anticoagulants, hypoglycemics, and drugs affecting the CNS."
+  },
+  {
+    "prompt": "What features are available in the MCAZ online and mobile app medicines and vaccines safety system?",
+    "completion": "The ePV system includes local built-in site reporting tracking, causality assessment, and the ability to upload de-identified and anonymized ADR reports to the WHO Drug International Monitoring Program VigiBase database for disproportionate analysis signal detection, VigiRank, and quality analysis known as VigiGrade completeness score."
+  },
+  {
+    "prompt": "When should an ADR report be submitted to MCAZ?",
+    "completion": "An ADR report should be submitted to MCAZ as soon as possible after the reaction occurs. It's better not to wait for final results and information such as hospital letters, as the report may be forgotten. Additional details can be sent to MCAZ later."
+  },
+  {
+    "prompt": "What role do laboratory tests play in ADR investigation?",
+    "completion": "Laboratory tests are especially important if the medicine is considered essential in improving patient care or if the lab test results will improve management of the patient. Tests like FBC, ALT, and U & E may be conducted to help determine possible causes for new symptoms."
+  },
+  {
+    "prompt": "What mobile platforms is the MCAZ Pharmacovigilance app available on?",
+    "completion": "The MCAZ Pharmacovigilance mobile application is available for both Android and iOS users. It can be downloaded from the Google Play Store and the Apple App Store respectively by searching for 'MCAZ Pharmacovigilance'."
+  },
+  {
+    "prompt": "How can consumers or patients report ADRs?",
+    "completion": "Consumers, patients, or patient representatives can report using either the standard ADR reporting form or the e-ADR form, which is accessible from the Online Services tab on MCAZ website using the link: https://primaryreporting.who-umc.org/ZW."
+  },
+  {
+    "prompt": "What should healthcare workers do if a patient shows unexplained signs or symptoms?",
+    "completion": "If a patient shows signs and/or symptoms not clearly explained by the course of their illness, healthcare workers should think of adverse drug reaction. If an adverse reaction is suspected, consider stopping the medicine or reducing the dosage as soon as possible and report the adverse drug reaction to MCAZ."
+  },
+  {
+    "prompt": "What offline capabilities are available in the MCAZ reporting system?",
+    "completion": "The mobile and desktop applications have offline functionality, meaning reports can be completed offline, saved, and submitted later when internet is available."
+  },
+  {
+    "prompt": "What precautions should be taken regarding medicine interactions?",
+    "completion": "Healthcare workers should be aware of medicine interactions not only with other medicines but also with certain foodstuffs, alcohol, and even household chemicals. They should also review all medicines being used by patients regularly, including those bought without prescription (over the counter, complementary)."
+  },
+  {
+    "prompt": "What is the purpose of storing ADR report information in the database?",
+    "completion": "The information is used to improve therapeutics and patient safety through better ADR detection, ADR case management, causality assessment, signal detection, benefit-risk minimization management, and communication. It is not used for commercial purposes."
+  },
+  {
+    "prompt": "What textual guidance is available for using the MCAZ E-PV system?",
+    "completion": "Detailed guidance on how to navigate the E-PV system is available in the Pharmacovigilance Electronic Reporting System User Manual, which can be accessed on the MCAZ website (www.mcaz.co.zw) and https://e-pv.mcaz.co.zw/"
+  },
+  {
+    "prompt": "What is abbreviation for ART",
+    "completion": "Antiretroviral therapy"
+  },
+  {
+    "prompt": "What is abbreviation for ANC",
+    "completion": "Antenatal clinic"
+  },
+  {
+    "prompt": "What is abbreviation for AHD",
+    "completion": "Advanced HIV disease"
+  },
+  {
+    "prompt": "What is abbreviation for ADR",
+    "completion": "Adverse drug reaction"
+  },
+  {
+    "prompt": "What is abbreviation for CATS",
+    "completion": "Community Adolescent Treatment Supporter"
+  },
+  {
+    "prompt": "What is abbreviation for CD4",
+    "completion": "Cluster of differentiation 4"
+  },
+  {
+    "prompt": "What is abbreviation for CLHIV",
+    "completion": "Children living with HIV"
+  },
+  {
+    "prompt": "What is abbreviation for CMDs",
+    "completion": "Common mental health disorders"
+  },
+  {
+    "prompt": "What is abbreviation for DNA",
+    "completion": "Deoxyribonucleic acid"
+  },
+  {
+    "prompt": "What is abbreviation for DPS-MOHCC",
+    "completion": "Directorate pharmacy services-Ministry of Health and childcare"
+  },
+  {
+    "prompt": "What is abbreviation for DVR",
+    "completion": "Dapivirine vaginal ring"
+  },
+  {
+    "prompt": "What is abbreviation for ED-PrEP",
+    "completion": "Event driven Pre-exposure Prophylaxis"
+  },
+  {
+    "prompt": "What is abbreviation for EID",
+    "completion": "Early infant diagnosis"
+  },
+  {
+    "prompt": "What is abbreviation for eMTCT",
+    "completion": "Elimination of maternal to child transmission of HIV and syphilis"
+  },
+  {
+    "prompt": "What is abbreviation for e-PV",
+    "completion": "Electronic- pharmacovigilance"
+  },
+  {
+    "prompt": "What is abbreviation for FDCs",
+    "completion": "Fixed dose combinations"
+  },
+  {
+    "prompt": "What is abbreviation for HBV",
+    "completion": "Hepatitis B Virus"
+  },
+  {
+    "prompt": "What is abbreviation for HIVST",
+    "completion": "HIV self-testing"
+  },
+  {
+    "prompt": "What is abbreviation for HTS",
+    "completion": "HIV Testing Services"
+  },
+  {
+    "prompt": "What is abbreviation for INSTI",
+    "completion": "Integrase strand transfer inhibitor"
+  },
+  {
+    "prompt": "What is abbreviation for INSTIs",
+    "completion": "Integrase strand transfer inhibitors"
+  },
+  {
+    "prompt": "What is abbreviation for LEEP",
+    "completion": "Loop Electrical Excision"
+  },
+  {
+    "prompt": "What is abbreviation for LLETZ",
+    "completion": "Large Loop Excision of the Transformation Zone"
+  },
+  {
+    "prompt": "What is abbreviation for LF-LAM",
+    "completion": "Lateral flow lipoarabinomannan"
+  },
+  {
+    "prompt": "What is abbreviation for LPV/r",
+    "completion": "Lopinavir/ritonavir"
+  },
+  {
+    "prompt": "What is abbreviation for MCAZ",
+    "completion": "Medicines Control Authority of Zimbabwe"
+  },
+  {
+    "prompt": "What is abbreviation for MOHCC",
+    "completion": "Ministry of Health and Child Care"
+  },
+  {
+    "prompt": "What is abbreviation for MTCT",
+    "completion": "Maternal to child transmission"
+  },
+  {
+    "prompt": "What is abbreviation for NAT",
+    "completion": "Nucleic acid testing"
+  },
+  {
+    "prompt": "What is abbreviation for NCDs",
+    "completion": "Non-communicable diseases"
+  },
+  {
+    "prompt": "What is abbreviation for NNRTI",
+    "completion": "Non-nucleoside reverse transcriptase inhibitor"
+  },
+  {
+    "prompt": "What is abbreviation for NRTI",
+    "completion": "Nucleoside reverse transcriptase inhibitor"
+  },
+  {
+    "prompt": "What is abbreviation for OI",
+    "completion": "Opportunistic infections"
+  },
+  {
+    "prompt": "What is abbreviation for OSDM",
+    "completion": "Operation and service delivery manual"
+  },
+  {
+    "prompt": "What is abbreviation for PEP",
+    "completion": "Post-exposure prophylaxis"
+  },
+  {
+    "prompt": "What is abbreviation for PI",
+    "completion": "Protease Inhibitor"
+  },
+  {
+    "prompt": "What is abbreviation for PITC",
+    "completion": "Provider initiated testing and counselling"
+  },
+  {
+    "prompt": "What is abbreviation for PLHIV",
+    "completion": "People living with HIV"
+  },
+  {
+    "prompt": "What is abbreviation for PMTCT",
+    "completion": "Prevention of maternal to child transmission"
+  },
+  {
+    "prompt": "What is abbreviation for PNC",
+    "completion": "Postnatal clinic"
+  },
+  {
+    "prompt": "What is abbreviation for POC",
+    "completion": "Point of care"
+  },
+  {
+    "prompt": "What is abbreviation for PrEP",
+    "completion": "Pre-exposure prophylaxis"
+  },
+  {
+    "prompt": "What is abbreviation for RAL",
+    "completion": "Raltegravir"
+  },
+  {
+    "prompt": "What is abbreviation for RNA",
+    "completion": "Ribonucleic acid"
+  },
+  {
+    "prompt": "What is abbreviation for RTRI",
+    "completion": "Rapid tests for recent HIV infection"
+  },
+  {
+    "prompt": "What is abbreviation for SRH",
+    "completion": "Sexual and reproductive health"
+  },
+  {
+    "prompt": "What is abbreviation for STI",
+    "completion": "Sexually transmitted infections"
+  },
+  {
+    "prompt": "What is abbreviation for SSQ14",
+    "completion": "Shona symptom questionnaire 14"
+  },
+  {
+    "prompt": "What is abbreviation for TAF",
+    "completion": "Tenofovir Alafenamide"
+  },
+  {
+    "prompt": "What is abbreviation for TaSP",
+    "completion": "Treatment as prevention"
+  },
+  {
+    "prompt": "What is abbreviation for VMMC",
+    "completion": "Voluntary medical male circumcision"
+  },
+  {
+    "prompt": "What is abbreviation for WLHIV",
+    "completion": "Women living with HIV"
+  }
+]
